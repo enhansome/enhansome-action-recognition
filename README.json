@@ -305,7 +305,7 @@
             "last_commit": "2026-03-18T04:04:49Z",
             "owner": "open-mmlab",
             "repo": "mmaction2",
-            "stars": 5135
+            "stars": 5136
           }
         },
         {
@@ -954,7 +954,7 @@
             "last_commit": "2024-05-03T13:53:58Z",
             "owner": "pjreddie",
             "repo": "darknet",
-            "stars": 26489
+            "stars": 26490
           }
         },
         {
@@ -1024,7 +1024,7 @@
             "last_commit": "2021-09-27T01:43:43Z",
             "owner": "msracver",
             "repo": "Deformable-ConvNets",
-            "stars": 4119
+            "stars": 4120
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34364
+            "stars": 34366
           }
         },
         {
@@ -1111,7 +1111,7 @@
             "last_commit": "2024-05-13T14:33:34Z",
             "owner": "MVIG-SJTU",
             "repo": "AlphaPose",
-            "stars": 8592
+            "stars": 8593
           }
         },
         {
@@ -1190,7 +1190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:28:57.801Z",
+    "last_updated": "2026-08-16T14:29:32.873Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
     "enhanced_repository": "enhansome/enhansome-action-recognition",
