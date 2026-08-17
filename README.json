@@ -19,7 +19,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7406
+            "stars": 7407
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-06-17T00:43:51Z",
             "owner": "facebookresearch",
             "repo": "VMZ",
-            "stars": 1053
+            "stars": 1052
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-03-16T11:07:10Z",
             "owner": "facebookresearch",
             "repo": "SlowFast",
-            "stars": 7406
+            "stars": 7407
           }
         },
         {
@@ -305,7 +305,7 @@
             "last_commit": "2026-03-18T04:04:49Z",
             "owner": "open-mmlab",
             "repo": "mmaction2",
-            "stars": 5136
+            "stars": 5140
           }
         },
         {
@@ -929,7 +929,7 @@
             "last_commit": "2020-07-15T20:01:58Z",
             "owner": "cvondrick",
             "repo": "vatic",
-            "stars": 613
+            "stars": 614
           }
         }
       ],
@@ -954,7 +954,7 @@
             "last_commit": "2024-05-03T13:53:58Z",
             "owner": "pjreddie",
             "repo": "darknet",
-            "stars": 26490
+            "stars": 26488
           }
         },
         {
@@ -968,7 +968,7 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26365
+            "stars": 26363
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2023-11-20T09:13:34Z",
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26365
+            "stars": 26363
           }
         },
         {
@@ -1097,7 +1097,7 @@
             "last_commit": "2024-08-03T01:59:11Z",
             "owner": "CMU-Perceptual-Computing-Lab",
             "repo": "openpose",
-            "stars": 34366
+            "stars": 34368
           }
         },
         {
@@ -1111,7 +1111,7 @@
             "last_commit": "2024-05-13T14:33:34Z",
             "owner": "MVIG-SJTU",
             "repo": "AlphaPose",
-            "stars": 8593
+            "stars": 8594
           }
         },
         {
@@ -1136,7 +1136,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:06:01Z",
+            "last_commit": "2026-08-17T08:42:39Z",
             "owner": "DeepLabCut",
             "repo": "DeepLabCut",
             "stars": 5736
@@ -1190,7 +1190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:29:32.873Z",
+    "last_updated": "2026-08-17T14:34:38.655Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
     "enhanced_repository": "enhansome/enhansome-action-recognition",
