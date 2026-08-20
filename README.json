@@ -62,7 +62,7 @@
                 "last_commit": "2019-09-12T14:04:07Z",
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1839
+                "stars": 1838
               }
             },
             {
@@ -319,7 +319,7 @@
                     "last_commit": "2026-03-18T04:04:49Z",
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5141
+                    "stars": 5142
                   }
                 },
                 {
@@ -929,7 +929,7 @@
                 "last_commit": "2023-05-13T17:00:12Z",
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4012
+                "stars": 4015
               }
             },
             {
@@ -959,7 +959,7 @@
                 "last_commit": "2022-02-18T07:49:02Z",
                 "owner": "shahroudy",
                 "repo": "NTURGB-D",
-                "stars": 880
+                "stars": 881
               }
             }
           ],
@@ -1024,7 +1024,7 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26491
+                "stars": 26492
               }
             },
             {
@@ -1179,7 +1179,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34373
+                "stars": 34375
               }
             },
             {
@@ -1221,10 +1221,10 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-19T13:37:53Z",
+                "last_commit": "2026-08-20T14:29:27Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5737
+                "stars": 5741
               }
             },
             {
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:40:41.292Z",
+    "last_updated": "2026-08-20T14:42:10.448Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_id": 68941669,
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
