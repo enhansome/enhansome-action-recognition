@@ -1179,7 +1179,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34375
+                "stars": 34383
               }
             },
             {
@@ -1267,7 +1267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:28:14.278Z",
+    "last_updated": "2026-08-23T14:29:10.877Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_id": 68941669,
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
