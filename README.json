@@ -973,7 +973,7 @@
                 "last_commit": "2023-05-13T17:00:12Z",
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4016
+                "stars": 4015
               }
             },
             {
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34395
+                "stars": 34399
               }
             },
             {
@@ -1238,7 +1238,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8594
+                "stars": 8595
               }
             },
             {
@@ -1265,7 +1265,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-24T12:44:02Z",
+                "last_commit": "2026-08-25T12:02:01Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5745
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:52:13.520Z",
+    "last_updated": "2026-08-25T14:52:46.385Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_id": 68941669,
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
