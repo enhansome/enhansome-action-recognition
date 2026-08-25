@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7409
+                "stars": 7410
               }
             },
             {
@@ -304,7 +304,7 @@
                     "last_commit": "2026-03-16T11:07:10Z",
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7409
+                    "stars": 7410
                   }
                 },
                 {
@@ -973,7 +973,7 @@
                 "last_commit": "2023-05-13T17:00:12Z",
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4015
+                "stars": 4016
               }
             },
             {
@@ -1068,7 +1068,7 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26494
+                "stars": 26493
               }
             },
             {
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34390
+                "stars": 34395
               }
             },
             {
@@ -1238,7 +1238,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8593
+                "stars": 8594
               }
             },
             {
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:02.087Z",
+    "last_updated": "2026-08-25T05:52:13.520Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_id": 68941669,
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
