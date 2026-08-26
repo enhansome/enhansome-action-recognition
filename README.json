@@ -319,7 +319,7 @@
                     "last_commit": "2026-03-18T04:04:49Z",
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5143
+                    "stars": 5142
                   }
                 },
                 {
@@ -349,7 +349,7 @@
                     "last_commit": "2024-07-17T04:18:40Z",
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2513
+                    "stars": 2514
                   }
                 },
                 {
@@ -364,7 +364,7 @@
                     "last_commit": "2022-04-08T03:44:50Z",
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1875
+                    "stars": 1876
                   }
                 },
                 {
@@ -973,7 +973,7 @@
                 "last_commit": "2023-05-13T17:00:12Z",
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4015
+                "stars": 4016
               }
             },
             {
@@ -1068,7 +1068,7 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26493
+                "stars": 26492
               }
             },
             {
@@ -1083,7 +1083,7 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358
               }
             },
             {
@@ -1098,7 +1098,7 @@
                 "last_commit": "2023-11-20T09:13:34Z",
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358
               }
             },
             {
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34399
+                "stars": 34406
               }
             },
             {
@@ -1265,7 +1265,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-25T12:02:01Z",
+                "last_commit": "2026-08-26T12:46:37Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5745
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:52:46.385Z",
+    "last_updated": "2026-08-26T14:51:18.293Z",
     "original_repository": "jinwchoi/awesome-action-recognition",
     "original_repository_id": 68941669,
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
