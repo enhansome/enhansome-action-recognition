@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-16T11:07:10Z",
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7410
+                "stars": 7411
               }
             },
             {
@@ -304,7 +304,7 @@
                     "last_commit": "2026-03-16T11:07:10Z",
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7410
+                    "stars": 7411
                   }
                 },
                 {
@@ -1025,7 +1025,7 @@
                 "last_commit": "2021-12-06T21:10:56Z",
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4428
+                "stars": 4429
               }
             },
             {
@@ -1068,7 +1068,7 @@
                 "last_commit": "2024-05-03T13:53:58Z",
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26492
+                "stars": 26493
               }
             },
             {
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34406
+                "stars": 34417
               }
             },
             {
@@ -1238,7 +1238,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8595
+                "stars": 8597
               }
             },
             {
@@ -1265,7 +1265,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-26T12:46:37Z",
+                "last_commit": "2026-08-27T11:00:57Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5745
@@ -1311,9 +1311,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:51:18.293Z",
-    "original_repository": "jinwchoi/awesome-action-recognition",
-    "original_repository_id": 68941669,
+    "last_updated": "2026-08-27T11:18:21.824Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 68941669,
+      "language": null,
+      "last_commit": "2023-05-13T17:00:12Z",
+      "owner": "jinwchoi",
+      "repo": "awesome-action-recognition",
+      "stars": 4016
+    },
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
     "enhanced_repository": "enhansome/enhansome-action-recognition",
     "enhanced_repository_description": null,
