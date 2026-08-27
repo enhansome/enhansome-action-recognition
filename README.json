@@ -319,7 +319,7 @@
                     "last_commit": "2026-03-18T04:04:49Z",
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5142
+                    "stars": 5143
                   }
                 },
                 {
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417
+                "stars": 34418
               }
             },
             {
@@ -1238,7 +1238,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8597
+                "stars": 8598
               }
             },
             {
@@ -1265,7 +1265,7 @@
                 "archived": false,
                 "id": 126897385,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:00:57Z",
+                "last_commit": "2026-08-27T15:02:35Z",
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5745
@@ -1311,7 +1311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:21.824Z",
+    "last_updated": "2026-08-27T23:41:35.945Z",
     "original_repository_info": {
       "archived": false,
       "id": 68941669,
