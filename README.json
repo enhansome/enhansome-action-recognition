@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411,
+                "stars": 7412,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 444,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7411,
+                    "stars": 7412,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5145,
+                    "stars": 5146,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:16.538Z",
+    "last_updated": "2026-08-29T17:37:54.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
