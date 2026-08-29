@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+                "homepage": null,
                 "id": 203465734,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-16T11:07:10Z",
+                "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7411
+                "stars": 7411,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -28,12 +33,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3D ResNets for Action Recognition (CVPR 2018)",
+                "homepage": null,
                 "id": 103528129,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-20T20:31:36Z",
+                "open_issues": 154,
                 "owner": "kenshohara",
                 "repo": "3D-ResNets-PyTorch",
-                "stars": 4038
+                "stars": 4038,
+                "topics": [
+                  "action-recognition",
+                  "computer-vision",
+                  "deep-learning",
+                  "python",
+                  "pytorch",
+                  "video-recognition"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -44,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Non-local Neural Networks for Video Classification",
+                "homepage": null,
                 "id": 119100108,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-09-15T17:26:10Z",
+                "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "video-nonlocal-net",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -60,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional neural network model for video classification trained on the Kinetics dataset.",
+                "homepage": null,
                 "id": 99113620,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-09-12T14:04:07Z",
+                "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1838
+                "stars": 1838,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -76,12 +103,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code & Models for Temporal Segment Networks (TSN) in ECCV 2016",
+                "homepage": null,
                 "id": 63316294,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2020-10-27T15:37:48Z",
+                "open_issues": 39,
                 "owner": "yjxiong",
                 "repo": "temporal-segment-networks",
-                "stars": 1577
+                "stars": 1577,
+                "topics": [
+                  "action-recognition",
+                  "temporal-segment-networks",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -92,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C3D is a modified version of BVLC caffe to support 3D ConvNets.",
+                "homepage": null,
                 "id": 33708917,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2019-07-31T22:24:07Z",
+                "open_issues": 76,
                 "owner": "facebookarchive",
                 "repo": "C3D",
-                "stars": 1181
+                "stars": 1181,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -108,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C3D is a modified version of BVLC caffe to support 3D ConvNets.",
+                "homepage": null,
                 "id": 33708917,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2019-07-31T22:24:07Z",
+                "open_issues": 76,
                 "owner": "facebookarchive",
                 "repo": "C3D",
-                "stars": 1181
+                "stars": 1181,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -124,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "VMZ: Model Zoo for Video Modeling",
+                "homepage": null,
                 "id": 131076155,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-17T00:43:51Z",
+                "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "VMZ",
-                "stars": 1052
+                "stars": 1052,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -140,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal Relation Networks",
+                "homepage": "http://relation.csail.mit.edu/",
                 "id": 112793061,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-06T18:58:49Z",
+                "open_issues": 63,
                 "owner": "zhoubolei",
                 "repo": "TRN-pytorch",
-                "stars": 789
+                "stars": 789,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -156,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Correspondence from the Cycle-consistency of Time (CVPR 2019)",
+                "homepage": null,
                 "id": 177499233,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-26T03:56:42Z",
+                "open_issues": 10,
                 "owner": "xiaolonw",
                 "repo": "TimeCycle",
-                "stars": 723
+                "stars": 723,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -172,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for \"Convolutional Two-Stream Network Fusion for Video Action Recognition\", CVPR 2016.",
+                "homepage": "http://www.robots.ox.ac.uk/~vgg/software/two_stream_action/",
                 "id": 56841015,
                 "language": "Cuda",
+                "license": "NOASSERTION",
                 "last_commit": "2016-09-27T08:45:53Z",
+                "open_issues": 38,
                 "owner": "feichtenhofer",
                 "repo": "twostreamfusion",
-                "stars": 715
+                "stars": 715,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -188,12 +254,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Long-Term Feature Banks for Detailed Video Understanding",
+                "homepage": null,
                 "id": 174070923,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-08-30T20:51:24Z",
+                "open_issues": 15,
                 "owner": "facebookresearch",
                 "repo": "video-long-term-feature-banks",
-                "stars": 383
+                "stars": 383,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -204,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pseudo-3D Convolutional Residual Networks for Video Representation Learning",
+                "homepage": null,
                 "id": 107089949,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-10-10T16:39:13Z",
+                "open_issues": 23,
                 "owner": "ZhaofanQiu",
                 "repo": "pseudo-3d-residual-networks",
-                "stars": 347
+                "stars": 347,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -220,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 76373882,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-08-08T02:02:51Z",
+                "open_issues": 6,
                 "owner": "colincsl",
                 "repo": "TemporalConvolutionalNetworks",
-                "stars": 298
+                "stars": 298,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -236,12 +317,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for popular action recognition models, verified on the something-something data set.",
+                "homepage": null,
                 "id": 123521178,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-08T19:01:36Z",
+                "open_issues": 4,
                 "owner": "coderSkyChen",
                 "repo": "Action_Recognition_Zoo",
-                "stars": 246
+                "stars": 246,
+                "topics": [
+                  "action-recognition",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -252,12 +341,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2021 Spotlight] Official implementation of Long Short-Term Transformer for Online Action Detection",
+                "homepage": null,
                 "id": 429509295,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-25T10:47:38Z",
+                "open_issues": 13,
                 "owner": "amazon-science",
                 "repo": "long-short-term-transformer",
-                "stars": 140
+                "stars": 140,
+                "topics": [
+                  "online-action-detection",
+                  "video-analysis",
+                  "video-transformer"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -268,12 +366,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2019] Why Can't I Dance in the Mall? Learning to Mitigate Scene Bias in Action Recognition",
+                "homepage": "http://chengao.vision/SDN/",
                 "id": 217920896,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-20T00:54:34Z",
+                "open_issues": 2,
                 "owner": "vt-vl-lab",
                 "repo": "SDN",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "action-recognition",
+                  "activity-recognition",
+                  "debiasisng",
+                  "representation-learning",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -284,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2019] Official implementation of Temporal Recurrent Networks for Online Action Detection",
+                "homepage": null,
                 "id": 222581463,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-21T01:04:15Z",
+                "open_issues": 8,
                 "owner": "xumingze0308",
                 "repo": "TRN.pytorch",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -300,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Long-term Temporal Convolutions for Action Recognition, TPAMI 2018",
+                "homepage": "http://www.di.ens.fr/willow/research/ltc",
                 "id": 77164168,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2018-08-09T15:26:20Z",
+                "open_issues": 8,
                 "owner": "gulvarol",
                 "repo": "ltc",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -318,12 +437,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.",
+                    "homepage": null,
                     "id": 203465734,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-16T11:07:10Z",
+                    "open_issues": 444,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7411
+                    "stars": 7411,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -334,12 +458,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark",
+                    "homepage": "https://mmaction2.readthedocs.io",
                     "id": 278810244,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-18T04:04:49Z",
+                    "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5145
+                    "stars": 5145,
+                    "topics": [
+                      "action-recognition",
+                      "ava",
+                      "benchmark",
+                      "deep-learning",
+                      "i3d",
+                      "non-local",
+                      "openmmlab",
+                      "posec3d",
+                      "pytorch",
+                      "slowfast",
+                      "spatial-temporal-action-detection",
+                      "temporal-action-localization",
+                      "tsm",
+                      "tsn",
+                      "uniformerv2",
+                      "video-classification",
+                      "video-understanding",
+                      "x3d"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -350,12 +498,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "3D ResNets for Action Recognition (CVPR 2018)",
+                    "homepage": null,
                     "id": 103528129,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-01-20T20:31:36Z",
+                    "open_issues": 154,
                     "owner": "kenshohara",
                     "repo": "3D-ResNets-PyTorch",
-                    "stars": 4038
+                    "stars": 4038,
+                    "topics": [
+                      "action-recognition",
+                      "computer-vision",
+                      "deep-learning",
+                      "python",
+                      "pytorch",
+                      "video-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -366,12 +526,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An efficient video loader for deep learning with smart shuffling that's super easy to digest",
+                    "homepage": null,
                     "id": 166483718,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-07-17T04:18:40Z",
+                    "open_issues": 221,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2515
+                    "stars": 2515,
+                    "topics": [
+                      "video-loader"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -382,12 +549,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source toolbox for action understanding based on PyTorch",
+                    "homepage": "https://open-mmlab.github.io/",
                     "id": 191778243,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-08T03:44:50Z",
+                    "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1876
+                    "stars": 1876,
+                    "topics": [
+                      "action-detection",
+                      "action-recognition",
+                      "pytorch",
+                      "spatial-temporal-action-detection",
+                      "temporal-action-detection",
+                      "temporal-action-localization",
+                      "video-understanding"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -398,12 +578,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inflated i3d network with inception backbone, weights transfered from tensorflow",
+                    "homepage": null,
                     "id": 100934633,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-23T15:43:09Z",
+                    "open_issues": 12,
                     "owner": "hassony2",
                     "repo": "kinetics_i3d_pytorch",
-                    "stars": 548
+                    "stars": 548,
+                    "topics": [
+                      "3d-convolutional-network",
+                      "i3d",
+                      "inception-v1",
+                      "inflated-network",
+                      "kinetics",
+                      "pytorch",
+                      "pytorch-flow-predictions",
+                      "pytorch-rgb-predictions",
+                      "weight"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -414,12 +609,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " A repository of common methods, datasets, and tasks for video research",
+                    "homepage": null,
                     "id": 148703400,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2019-06-17T03:39:26Z",
+                    "open_issues": 11,
                     "owner": "gsig",
                     "repo": "PyVideoResearch",
-                    "stars": 536
+                    "stars": 536,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -430,12 +630,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":plate_with_cutlery:  Annotations for the public release of the EPIC-KITCHENS-100 dataset",
+                    "homepage": null,
                     "id": 261220865,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-08-01T21:00:00Z",
+                    "open_issues": 2,
                     "owner": "epic-kitchens",
                     "repo": "epic-kitchens-100-annotations",
-                    "stars": 172
+                    "stars": 172,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -446,12 +651,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inflate DenseNet and ResNet as per I3D with ImageNet weight transfer",
+                    "homepage": null,
                     "id": 116246147,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-28T11:54:42Z",
+                    "open_issues": 5,
                     "owner": "hassony2",
                     "repo": "inflated_convnets_pytorch",
-                    "stars": 154
+                    "stars": 154,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -462,12 +672,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A one stop shop for all of your activity recognition needs.",
+                    "homepage": null,
                     "id": 129807977,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-05-24T16:53:35Z",
+                    "open_issues": 2,
                     "owner": "MichiganCOG",
                     "repo": "M-PACT",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": [
+                      "action-recognition",
+                      "activity-recognition",
+                      "c3d",
+                      "computer-vision",
+                      "convnet",
+                      "deep-learning",
+                      "i3d",
+                      "inception",
+                      "lrcn",
+                      "lrcn-network",
+                      "m-pact",
+                      "mpact",
+                      "resnet",
+                      "resnet-50",
+                      "temporal-segment-networks",
+                      "tensorflow",
+                      "tfrecords",
+                      "tsn",
+                      "video"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -478,12 +713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Train action classification model based on individual frames",
+                    "homepage": null,
                     "id": 113850791,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-02-23T02:10:26Z",
+                    "open_issues": 1,
                     "owner": "gurkirt",
                     "repo": "2D-kinectics",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 },
@@ -494,12 +734,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Human action classification for video, offline and natively on iOS via Core ML",
+                    "homepage": "https://lukereichold.com/blog/posts/video-action-classification-coreml/",
                     "id": 281305669,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2020-08-05T06:57:18Z",
+                    "open_issues": 0,
                     "owner": "lukereichold",
                     "repo": "VisualActionKit",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "3d-cnn",
+                      "avkit",
+                      "convolutional-neural-network",
+                      "coreml",
+                      "ios",
+                      "kinetics",
+                      "neural-network",
+                      "swift",
+                      "swiftui",
+                      "video-classification",
+                      "video-processing",
+                      "vision"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
                 }
@@ -522,12 +780,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code/Model release for NIPS 2017 paper \"Attentional Pooling for Action Recognition\"",
+                "homepage": "https://rohitgirdhar.github.io/AttentionalPoolingAction/",
                 "id": 109450547,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-05-20T13:27:02Z",
+                "open_issues": 6,
                 "owner": "rohitgirdhar",
                 "repo": "AttentionalPoolingAction",
-                "stars": 259
+                "stars": 259,
+                "topics": [
+                  "action-recognition",
+                  "attention-mechanism",
+                  "attention-model",
+                  "computer-vision",
+                  "nips-2017",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -538,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "automatic video description generation with GPU training",
+                "homepage": null,
                 "id": 42823023,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-12T19:34:59Z",
+                "open_issues": 15,
                 "owner": "yaoli",
                 "repo": "arctic-capgen-vid",
-                "stars": 256
+                "stars": 256,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -554,12 +829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lisa Anne's public caffe code.",
+                "homepage": null,
                 "id": 31297705,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-09-05T13:34:31Z",
+                "open_issues": 7,
                 "owner": "LisaAnne",
                 "repo": "lisa-caffe-public",
-                "stars": 218
+                "stars": 218,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -570,12 +850,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe implementation for \"Hidden Two-Stream Convolutional Networks for Action Recognition\"",
+                "homepage": null,
                 "id": 95412289,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2017-12-20T19:39:05Z",
+                "open_issues": 3,
                 "owner": "bryanyzhu",
                 "repo": "Hidden-Two-Stream",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "action-recognition",
+                  "caffe",
+                  "cnn",
+                  "hmdb51",
+                  "optical-flow",
+                  "real-time",
+                  "ucf101",
+                  "unsupervised-learning",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -586,12 +881,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic Image Networks for Action Recognition",
+                "homepage": null,
                 "id": 54491842,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2018-01-10T14:54:32Z",
+                "open_issues": 5,
                 "owner": "hbilen",
                 "repo": "dynamic-image-nets",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "action-recognition",
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -602,12 +907,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 62939367,
                 "language": "Matlab",
+                "license": "MIT",
                 "last_commit": "2018-03-20T01:02:54Z",
+                "open_issues": 7,
                 "owner": "zbwglory",
                 "repo": "MV-release",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -618,12 +928,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trajectory-pooled Deep-Convolutional Descriptors",
+                "homepage": null,
                 "id": 39430417,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2017-08-24T19:33:41Z",
+                "open_issues": 1,
                 "owner": "wanglimin",
                 "repo": "TDD",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "action-recognition",
+                  "caffe"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -634,12 +952,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 222425959,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-07-26T09:35:20Z",
+                "open_issues": 1,
                 "owner": "prinshul",
                 "repo": "GWSDR",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -657,12 +980,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spatial Temporal Graph Convolutional Networks (ST-GCN) for Skeleton-Based Action Recognition in PyTorch",
+                "homepage": null,
                 "id": 205326746,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-03-08T08:11:41Z",
+                "open_issues": 0,
                 "owner": "yysijie",
                 "repo": "st-gcn",
-                "stars": 1752
+                "stars": 1753,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -680,12 +1008,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "temporal action detection with SSN",
+                "homepage": null,
                 "id": 84083852,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-06-21T18:08:23Z",
+                "open_issues": 18,
                 "owner": "yjxiong",
                 "repo": "action-detection",
-                "stars": 646
+                "stars": 646,
+                "topics": [
+                  "action-detection",
+                  "action-recognition",
+                  "structured-segment-networks",
+                  "temporal-activity-localization",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -696,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "code for R-C3D",
+                "homepage": null,
                 "id": 111457706,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2019-12-22T10:21:07Z",
+                "open_issues": 47,
                 "owner": "VisionLearningGroup",
                 "repo": "R-C3D",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -712,12 +1056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Segment-CNN: A Framework for Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs",
+                "homepage": null,
                 "id": 55942524,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2019-03-02T20:25:17Z",
+                "open_issues": 15,
                 "owner": "zhengshou",
                 "repo": "scnn",
-                "stars": 233
+                "stars": 233,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -728,12 +1077,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos (Official Repo for SS-TAD)",
+                "homepage": null,
                 "id": 97669363,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-10-12T22:18:54Z",
+                "open_issues": 6,
                 "owner": "shyamal-b",
                 "repo": "ss-tad",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -744,12 +1098,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SST: Single-Stream Temporal Action Proposals (Official Repo)",
+                "homepage": null,
                 "id": 87762656,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-12-08T00:42:58Z",
+                "open_issues": 17,
                 "owner": "shyamal-b",
                 "repo": "sst",
-                "stars": 100
+                "stars": 100,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -760,12 +1119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 62122096,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2016-09-12T07:27:13Z",
+                "open_issues": 3,
                 "owner": "syyeung",
                 "repo": "frameglimpses",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -776,12 +1140,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo allocate DAPs code of our ECCV 2016 publication",
+                "homepage": null,
                 "id": 71362360,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-09-22T08:00:23Z",
+                "open_issues": 0,
                 "owner": "escorciav",
                 "repo": "daps",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "action-recognition",
+                  "computer-vision",
+                  "python",
+                  "python27",
+                  "theano",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -792,12 +1168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 76470780,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-12-13T12:30:06Z",
+                "open_issues": 1,
                 "owner": "dot27",
                 "repo": "temporal-tessellation",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -808,12 +1189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cascaded Boundary Regression For Temporal Action Detection",
+                "homepage": null,
                 "id": 125964392,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-03-20T17:57:37Z",
+                "open_issues": 3,
                 "owner": "jiyanggao",
                 "repo": "CBR",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -824,12 +1210,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Temporal action proposals",
+                "homepage": null,
                 "id": 64313629,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-22T21:36:31Z",
+                "open_issues": 2,
                 "owner": "cabaf",
                 "repo": "sparseprop",
-                "stars": 47
+                "stars": 47,
+                "topics": [
+                  "action-recognition",
+                  "computer-vision"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -840,12 +1234,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Actionness Estimation Using Hybrid Fully Convolutional Networks",
+                "homepage": null,
                 "id": 63960370,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2016-07-30T12:29:25Z",
+                "open_issues": 0,
                 "owner": "wanglimin",
                 "repo": "Actionness-Estimation",
-                "stars": 30
+                "stars": 30,
+                "topics": [
+                  "action-detection",
+                  "actionness-estimation",
+                  "fully-convolutional-networks"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -863,12 +1266,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository  host the code for real-time action detection paper ",
+                "homepage": null,
                 "id": 98826489,
                 "language": "MATLAB",
+                "license": "NOASSERTION",
                 "last_commit": "2021-02-23T10:02:34Z",
+                "open_issues": 0,
                 "owner": "gurkirt",
                 "repo": "realtime-action-detection",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "action-detection",
+                  "action-recognition",
+                  "detection",
+                  "online",
+                  "pytorch",
+                  "real-time",
+                  "ssd",
+                  "ucf101"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -879,12 +1296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 105453455,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2018-02-27T15:42:04Z",
+                "open_issues": 0,
                 "owner": "vkalogeiton",
                 "repo": "caffe",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -895,12 +1317,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "source code for Finding Action Tubes, CVPR 2015",
+                "homepage": null,
                 "id": 34545062,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2016-06-22T19:19:45Z",
+                "open_issues": 4,
                 "owner": "gkioxari",
                 "repo": "ActionTubes",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -911,12 +1338,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 83138239,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-11-23T01:45:26Z",
+                "open_issues": 7,
                 "owner": "pengxj",
                 "repo": "action-faster-rcnn",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -927,12 +1359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Action localization Proposals from dense Trajectories",
+                "homepage": null,
                 "id": 43371042,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-01-14T09:45:45Z",
+                "open_issues": 3,
                 "owner": "jvgemert",
                 "repo": "apt",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -950,12 +1387,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ActorObserverNet code in PyTorch from \"Actor and Observer: Joint Modeling of First and Third-Person Videos\", CVPR 2018",
+                "homepage": null,
                 "id": 127202278,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-03-08T17:53:39Z",
+                "open_issues": 10,
                 "owner": "gsig",
                 "repo": "actor-observer",
-                "stars": 84
+                "stars": 84,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -973,12 +1415,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of the CortexNet predictive model",
+                "homepage": "http://tinyurl.com/CortexNet/",
                 "id": 80459944,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2018-11-28T20:41:56Z",
+                "open_issues": 2,
                 "owner": "Atcold",
                 "repo": "pytorch-CortexNet",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "deep-learning",
+                  "predictive-modeling",
+                  "pytorch",
+                  "self-supervised",
+                  "unsupervised-learning",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -989,12 +1443,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The source code for our CVPR 2016 work \"Slicing Convolutional Neural Network for Crowd Video Understanding\".",
+                "homepage": null,
                 "id": 63586831,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2016-08-10T08:51:15Z",
+                "open_issues": 3,
                 "owner": "amandajshao",
                 "repo": "Slicing-CNN",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1005,12 +1464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "optimized caffe for GBD",
+                "homepage": null,
                 "id": 70215367,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2016-10-07T04:51:46Z",
+                "open_issues": 1,
                 "owner": "craftGBD",
                 "repo": "caffe-GBD",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -1028,12 +1492,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of action recognition and related area resources",
+                "homepage": null,
                 "id": 68941669,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-13T17:00:12Z",
+                "open_issues": 1,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4016
+                "stars": 4016,
+                "topics": [
+                  "action-classification",
+                  "action-detection",
+                  "action-recognition",
+                  "activity-recognition",
+                  "activity-understanding",
+                  "awesome",
+                  "awesome-list",
+                  "object-recognition",
+                  "pose-estimation",
+                  "video-processing",
+                  "video-recognition",
+                  "video-understanding"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1044,12 +1526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is intended to host tools and demos for ActivityNet",
+                "homepage": null,
                 "id": 44809883,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-03-21T21:34:14Z",
+                "open_issues": 22,
                 "owner": "activitynet",
                 "repo": "ActivityNet",
-                "stars": 976
+                "stars": 976,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1060,12 +1547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Info and sample codes for \"NTU RGB+D Action Recognition Dataset\"",
+                "homepage": null,
                 "id": 57090413,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2022-02-18T07:49:02Z",
+                "open_issues": 23,
                 "owner": "shahroudy",
                 "repo": "NTURGB-D",
-                "stars": 881
+                "stars": 881,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -1083,12 +1575,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. ",
+                "homepage": null,
                 "id": 77614310,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2021-12-06T21:10:56Z",
+                "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4429
+                "stars": 4429,
+                "topics": [
+                  "annotation-tool",
+                  "cntk",
+                  "deep-learning",
+                  "detection",
+                  "detection-model",
+                  "image-annotation",
+                  "image-tagging",
+                  "imagetagger",
+                  "labeling",
+                  "object-detection",
+                  "tagging",
+                  "taggingtools",
+                  "tensorflow-object-detection-api",
+                  "video-tagging"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1099,12 +1611,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficiently Scaling Up Video Annotation with Crowdsourced Marketplaces. IJCV 2012",
+                "homepage": "http://mit.edu/vondrick/vatic/",
                 "id": 2019922,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-07-15T20:01:58Z",
+                "open_issues": 91,
                 "owner": "cvondrick",
                 "repo": "vatic",
-                "stars": 615
+                "stars": 615,
+                "topics": [
+                  "computer-vision",
+                  "video",
+                  "video-annotation"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -1128,12 +1649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convolutional Neural Networks",
+                "homepage": "http://pjreddie.com/darknet/",
                 "id": 18666758,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
+                "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26494
+                "stars": 26494,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1144,12 +1670,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+                "homepage": null,
                 "id": 105919803,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-20T09:13:34Z",
+                "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1160,12 +1691,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+                "homepage": null,
                 "id": 105919803,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-20T09:13:34Z",
+                "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26359
+                "stars": 26358,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1176,12 +1712,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe: a fast open framework for deep learning.",
+                "homepage": "http://caffe.berkeleyvision.org/",
                 "id": 33213787,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-21T17:17:09Z",
+                "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808
+                "stars": 4808,
+                "topics": [
+                  "deep-learning",
+                  "object-detection",
+                  "real-time",
+                  "semantic-segmentation"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1192,12 +1738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation of RetinaNet object detection.",
+                "homepage": null,
                 "id": 100249425,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-16T14:51:24Z",
+                "open_issues": 29,
                 "owner": "fizyr",
                 "repo": "keras-retinanet",
-                "stars": 4383
+                "stars": 4383,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1208,12 +1759,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deformable Convolutional Networks",
+                "homepage": null,
                 "id": 90380009,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-27T01:43:43Z",
+                "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121
+                "stars": 4121,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1224,12 +1780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Faster R-CNN",
+                "homepage": null,
                 "id": 40288887,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-26T04:26:32Z",
+                "open_issues": 141,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835
+                "stars": 2835,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -1247,12 +1808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flow-Guided Feature Aggregation for Video Object Detection",
+                "homepage": null,
                 "id": 100588527,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-27T04:17:35Z",
+                "open_issues": 67,
                 "owner": "msracver",
                 "repo": "Flow-Guided-Feature-Aggregation",
-                "stars": 732
+                "stars": 732,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1263,12 +1829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for \"Detect to Track and Track to Detect\", ICCV 2017",
+                "homepage": "http://www.robots.ox.ac.uk/~vgg/research/detect-track/",
                 "id": 93512501,
                 "language": "Matlab",
+                "license": "NOASSERTION",
                 "last_commit": "2018-07-03T16:38:41Z",
+                "open_issues": 20,
                 "owner": "feichtenhofer",
                 "repo": "Detect-Track",
-                "stars": 552
+                "stars": 552,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -1292,12 +1863,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+                "homepage": "https://cmu-perceptual-computing-lab.github.io/openpose",
                 "id": 89247811,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-03T01:59:11Z",
+                "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417
+                "stars": 34417,
+                "topics": [
+                  "caffe",
+                  "computer-vision",
+                  "cpp",
+                  "cvpr-2017",
+                  "deep-learning",
+                  "face",
+                  "foot-estimation",
+                  "hand-estimation",
+                  "human-behavior-understanding",
+                  "human-pose",
+                  "human-pose-estimation",
+                  "keypoint-detection",
+                  "keypoints",
+                  "machine-learning",
+                  "multi-person",
+                  "opencv",
+                  "openpose",
+                  "pose",
+                  "pose-estimation",
+                  "real-time"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1308,12 +1905,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+                "homepage": "http://mvig.org/research/alphapose.html",
                 "id": 117772329,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-13T14:33:34Z",
+                "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8598
+                "stars": 8598,
+                "topics": [
+                  "accurate",
+                  "alpha-pose",
+                  "alphapose",
+                  "crowdpose",
+                  "full-body",
+                  "gpu",
+                  "human-computer-interaction",
+                  "human-joints",
+                  "human-pose-estimation",
+                  "human-pose-tracking",
+                  "human-tracking",
+                  "keypoints",
+                  "person-pose-estimation",
+                  "pose-estimation",
+                  "posetracking",
+                  "pytorch",
+                  "realtime",
+                  "skeleton",
+                  "tracking",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1324,12 +1947,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body",
+                "homepage": "http://densepose.org",
                 "id": 136069311,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-18T17:26:59Z",
+                "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259
+                "stars": 7259,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1340,12 +1968,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of DeepLabCut: Markerless pose estimation of user-defined features with deep learning for all animals incl. humans",
+                "homepage": "http://deeplabcut.org",
                 "id": 126897385,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T15:45:38Z",
+                "open_issues": 51,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5747
+                "stars": 5747,
+                "topics": [
+                  "animal-pose-estimation",
+                  "behavior-analysis",
+                  "deep-learning",
+                  "deeplabcut",
+                  "feature-detectors",
+                  "keypoint-detection",
+                  "keypoint-tracking",
+                  "labeling-tool",
+                  "pose-estimation",
+                  "toolbox"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1356,12 +2000,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code repo for realtime multi-person pose estimation in CVPR'17 (Oral)",
+                "homepage": null,
                 "id": 76280357,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2020-03-21T13:01:08Z",
+                "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5123
+                "stars": 5123,
+                "topics": [
+                  "caffe",
+                  "computer-vision",
+                  "cpp11",
+                  "cvpr-2017",
+                  "deep-learning",
+                  "human-behavior-understanding",
+                  "human-pose-estimation",
+                  "matlab",
+                  "python",
+                  "realtime"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             },
@@ -1372,12 +2032,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the Pose Residual Network introduced in 'MultiPoseNet: Fast Multi-Person  Pose Estimation using Pose Residual Network' paper https://arxiv.org/abs/1807.04067",
+                "homepage": null,
                 "id": 141421715,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-06T14:40:03Z",
+                "open_issues": 8,
                 "owner": "salihkaragoz",
                 "repo": "pose-residual-network-pytorch",
-                "stars": 285
+                "stars": 285,
+                "topics": [
+                  "deep-neural-networks",
+                  "human-behavior-understanding",
+                  "human-pose-estimation",
+                  "pose-estimation",
+                  "python",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
             }
@@ -1391,15 +2063,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:30:12.713Z",
+    "last_updated": "2026-08-29T04:18:16.538Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of action recognition and related area resources",
+      "homepage": null,
       "id": 68941669,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-13T17:00:12Z",
+      "open_issues": 1,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4016
+      "stars": 4016,
+      "topics": [
+        "action-classification",
+        "action-detection",
+        "action-recognition",
+        "activity-recognition",
+        "activity-understanding",
+        "awesome",
+        "awesome-list",
+        "object-recognition",
+        "pose-estimation",
+        "video-processing",
+        "video-recognition",
+        "video-understanding"
+      ]
     },
     "original_repository_sha": "9c42be1bfeba952ebee14eb2cc2ffe0448ff5024",
     "enhanced_repository": "enhansome/enhansome-action-recognition",

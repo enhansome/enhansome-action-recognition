@@ -89,7 +89,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Skeleton-Based Action Classification
 
-* [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17135) - S. Yan et al., AAAI2018. [\[code\]](https://github.com/yysijie/st-gcn) ⭐ 1,752 | 🐛 0 | 🌐 Python | 📅 2023-03-08
+* [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17135) - S. Yan et al., AAAI2018. [\[code\]](https://github.com/yysijie/st-gcn) ⭐ 1,753 | 🐛 0 | 🌐 Python | 📅 2023-03-08
 * [Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html) - M. Li et al., CVPR2019.
 * [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://arxiv.org/abs/1902.09130) - C. Si et al., CVPR2019.
 * [View Adaptive Neural Networks for High Performance Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/8630687) - P. Zhang et al., TPAMI2019.
@@ -213,7 +213,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 * [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf) - J. Redmon et al, CVPR2016. [\[official code\]](https://github.com/pjreddie/darknet.git) ⭐ 26,494 | 🐛 1,976 | 🌐 C | 📅 2024-05-03, [\[TensorFLow\]](https://github.com/gliese581gg/YOLO_tensorflow) ⭐ 1,708 | 🐛 38 | 🌐 Python | 📅 2019-01-05 - Fast object detector.
 * [Detectron](https://github.com/facebookresearch/Detectron) ⚠️ Archived - Open Source Object Detection Framework from Facebook AI Research. Includes Mask R-CNN, FPN, and etc. Caffe2 implementation.
-* [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [\[Detectron\]](https://github.com/facebookresearch/Detectron) ⚠️ Archived, [\[TensorFlow + Keras\]](https://github.com/matterport/Mask_RCNN) ⭐ 25,571 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07, [\[MXNet\]](https://github.com/TuSimple/mx-maskrcnn) ⭐ 1,753 | 🐛 54 | 🌐 Python | 📅 2018-02-28, [\[TensorFlow\]](https://github.com/CharlesShang/FastMaskRCNN) ⭐ 3,083 | 🐛 142 | 🌐 Python | 📅 2021-01-05, [\[PyTorch\]](https://github.com/felixgwu/mask_rcnn_pytorch) - State-of-the-art object detection/instance segmentation algorithm.
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [\[Detectron\]](https://github.com/facebookresearch/Detectron) ⚠️ Archived, [\[TensorFlow + Keras\]](https://github.com/matterport/Mask_RCNN) ⭐ 25,570 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07, [\[MXNet\]](https://github.com/TuSimple/mx-maskrcnn) ⭐ 1,753 | 🐛 54 | 🌐 Python | 📅 2018-02-28, [\[TensorFlow\]](https://github.com/CharlesShang/FastMaskRCNN) ⭐ 3,083 | 🐛 142 | 🌐 Python | 📅 2021-01-05, [\[PyTorch\]](https://github.com/felixgwu/mask_rcnn_pytorch) - State-of-the-art object detection/instance segmentation algorithm.
 * [SSD](https://arxiv.org/abs/1512.02325) - W. Liu et al, ECCV2016. [\[official PyCaffe code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,808 | 🐛 676 | 🌐 C++ | 📅 2023-04-21, [\[TensorFlow\]](https://github.com/balancap/SSD-Tensorflow) ⭐ 4,101 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2021-08-12, [\[Keras\]](https://github.com/rykov8/ssd_keras) ⚠️ Archived - State-of-the-art object detector with realtime processing speed.
 * [RetinaNet](https://arxiv.org/abs/1708.02002) - Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár, Facebook AI Research FAIR & ICCV 2017.[\[Keras\]](https://github.com/fizyr/keras-retinanet) ⭐ 4,383 | 🐛 29 | 🌐 Python | 📅 2023-03-16 - State-of-the-art object detector with realtime processing speed.
 * [Deformable Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf) - J. Dai et al., ICCV2017. [\[official code\]](https://github.com/msracver/Deformable-ConvNets) ⭐ 4,121 | 🐛 159 | 🌐 Python | 📅 2021-09-27
@@ -263,4 +263,4 @@ Please read the [contribution guidelines](contributing.md). Then please feel fre
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
