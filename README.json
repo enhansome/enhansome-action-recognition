@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7412,
+                "stars": 7413,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 444,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7412,
+                    "stars": 7413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5146,
+                    "stars": 5147,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -535,7 +535,7 @@
                     "open_issues": 221,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2515,
+                    "stars": 2514,
                     "topics": [
                       "video-loader"
                     ]
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417,
+                "stars": 34420,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1977,7 +1977,7 @@
                 "open_issues": 51,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5747,
+                "stars": 5746,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5123,
+                "stars": 5122,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:37:54.036Z",
+    "last_updated": "2026-08-30T18:00:18.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
