@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5149,
+                    "stars": 5150,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34419,
+                "stars": 34421,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8598,
+                "stars": 8600,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1973,8 +1973,8 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-01T15:13:13Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-01T21:42:20Z",
+                "open_issues": 44,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5755,
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:46:01.224Z",
+    "last_updated": "2026-09-02T17:48:56.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
