@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7414,
+                "stars": 7415,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 444,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7414,
+                    "stars": 7415,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5150,
+                    "stars": 5149,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34421,
+                "stars": 34422,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1956,7 +1956,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7258,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-01T21:42:20Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-03T16:05:42Z",
+                "open_issues": 42,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5755,
+                "stars": 5757,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:48:56.031Z",
+    "last_updated": "2026-09-03T17:45:28.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
