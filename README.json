@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7415,
+                "stars": 7416,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 444,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7415,
+                    "stars": 7416,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -989,7 +989,7 @@
                 "open_issues": 0,
                 "owner": "yysijie",
                 "repo": "st-gcn",
-                "stars": 1753,
+                "stars": 1757,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34422,
+                "stars": 34425,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1973,8 +1973,8 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-03T16:05:42Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-04T16:34:54Z",
+                "open_issues": 43,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5757,
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:45:28.181Z",
+    "last_updated": "2026-09-04T17:31:43.059Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
