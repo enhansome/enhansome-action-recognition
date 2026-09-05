@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5149,
+                    "stars": 5151,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1501,7 +1501,7 @@
                 "open_issues": 1,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4017,
+                "stars": 4016,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8600,
+                "stars": 8599,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1977,7 +1977,7 @@
                 "open_issues": 43,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5757,
+                "stars": 5759,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5122,
+                "stars": 5121,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:31:43.059Z",
+    "last_updated": "2026-09-05T16:42:34.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 1,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4017,
+      "stars": 4016,
       "topics": [
         "action-classification",
         "action-detection",
