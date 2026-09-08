@@ -42,7 +42,7 @@
                 "open_issues": 154,
                 "owner": "kenshohara",
                 "repo": "3D-ResNets-PyTorch",
-                "stars": 4037,
+                "stars": 4036,
                 "topics": [
                   "action-recognition",
                   "computer-vision",
@@ -70,7 +70,7 @@
                 "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "video-nonlocal-net",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -91,7 +91,7 @@
                 "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1838,
+                "stars": 1837,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -112,7 +112,7 @@
                 "open_issues": 39,
                 "owner": "yjxiong",
                 "repo": "temporal-segment-networks",
-                "stars": 1577,
+                "stars": 1576,
                 "topics": [
                   "action-recognition",
                   "temporal-segment-networks",
@@ -221,7 +221,7 @@
                 "open_issues": 10,
                 "owner": "xiaolonw",
                 "repo": "TimeCycle",
-                "stars": 723,
+                "stars": 722,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -284,7 +284,7 @@
                 "open_issues": 23,
                 "owner": "ZhaofanQiu",
                 "repo": "pseudo-3d-residual-networks",
-                "stars": 347,
+                "stars": 346,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5153,
+                    "stars": 5152,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -507,7 +507,7 @@
                     "open_issues": 154,
                     "owner": "kenshohara",
                     "repo": "3D-ResNets-PyTorch",
-                    "stars": 4037,
+                    "stars": 4036,
                     "topics": [
                       "action-recognition",
                       "computer-vision",
@@ -558,7 +558,7 @@
                     "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1876,
+                    "stars": 1875,
                     "topics": [
                       "action-detection",
                       "action-recognition",
@@ -587,7 +587,7 @@
                     "open_issues": 12,
                     "owner": "hassony2",
                     "repo": "kinetics_i3d_pytorch",
-                    "stars": 548,
+                    "stars": 547,
                     "topics": [
                       "3d-convolutional-network",
                       "i3d",
@@ -639,7 +639,7 @@
                     "open_issues": 2,
                     "owner": "epic-kitchens",
                     "repo": "epic-kitchens-100-annotations",
-                    "stars": 172,
+                    "stars": 173,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1017,7 +1017,7 @@
                 "open_issues": 18,
                 "owner": "yjxiong",
                 "repo": "action-detection",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "action-detection",
                   "action-recognition",
@@ -1044,7 +1044,7 @@
                 "open_issues": 47,
                 "owner": "VisionLearningGroup",
                 "repo": "R-C3D",
-                "stars": 255,
+                "stars": 254,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 1,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4016,
+                "stars": 4015,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1976,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26498,
+                "stars": 26497,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26356,
+                "stars": 26354,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26356,
+                "stars": 26354,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1747,7 +1747,7 @@
                 "open_issues": 29,
                 "owner": "fizyr",
                 "repo": "keras-retinanet",
-                "stars": 4382,
+                "stars": 4381,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1789,7 +1789,7 @@
                 "open_issues": 141,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835,
+                "stars": 2833,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34433,
+                "stars": 34431,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-07T15:16:37Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-08T15:41:36Z",
+                "open_issues": 41,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5759,
+                "stars": 5760,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:40:29.040Z",
+    "last_updated": "2026-09-08T17:51:22.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 1,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4016,
+      "stars": 4015,
       "topics": [
         "action-classification",
         "action-detection",
