@@ -1,6 +1,6 @@
 # Awesome Action Recognition: with stars
 
-A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,545 | 🐛 92 | 📅 2024-05-17.
+A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,546 | 🐛 92 | 📅 2024-05-17.
 
 ## Contents
 
@@ -18,7 +18,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Video Representation
 
-* [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) - C. Feichtenhofer et al., ICCV2019. [\[code\]](https://github.com/facebookresearch/SlowFast) ⭐ 7,416 | 🐛 444 | 🌐 Python | 📅 2026-03-16
+* [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) - C. Feichtenhofer et al., ICCV2019. [\[code\]](https://github.com/facebookresearch/SlowFast) ⭐ 7,418 | 🐛 444 | 🌐 Python | 📅 2026-03-16
 * [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf) - K. Hara et al., CVPR2019. [\[code\]](https://github.com/kenshohara/3D-ResNets-PyTorch) ⭐ 4,036 | 🐛 154 | 🌐 Python | 📅 2021-01-20
 * [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971) - X. Wang et al., CVPR2018. [\[code\]](https://github.com/facebookresearch/video-nonlocal-net) ⚠️ Archived
 * [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf) - J. Carreira et al, CVPR2017. [\[code\]](https://github.com/deepmind/kinetics-i3d) ⭐ 1,837 | 🐛 95 | 🌐 Python | 📅 2019-09-12[\[PyTorch code\]](https://github.com/hassony2/kinetics_i3d_pytorch) ⭐ 547 | 🐛 12 | 🌐 Python | 📅 2024-05-23, [\[another PyTorch code\]](https://github.com/piergiaj/pytorch-i3d) ⭐ 1,055 | 🐛 60 | 🌐 Python | 📅 2020-06-28
@@ -56,8 +56,8 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 #### Useful Code Repos on Video Representation Learning
 
-* [\[PySlowFast\]](https://github.com/facebookresearch/slowfast) ⭐ 7,416 | 🐛 444 | 🌐 Python | 📅 2026-03-16
-* [\[MMAction2\]](https://github.com/open-mmlab/mmaction2) ⭐ 5,152 | 🐛 319 | 🌐 Python | 📅 2026-03-18
+* [\[PySlowFast\]](https://github.com/facebookresearch/slowfast) ⭐ 7,418 | 🐛 444 | 🌐 Python | 📅 2026-03-16
+* [\[MMAction2\]](https://github.com/open-mmlab/mmaction2) ⭐ 5,157 | 🐛 319 | 🌐 Python | 📅 2026-03-18
 * [\[3D ResNet PyTorch\]](https://github.com/kenshohara/3D-ResNets-PyTorch) ⭐ 4,036 | 🐛 154 | 🌐 Python | 📅 2021-01-20
 * [\[Decord\]](https://github.com/dmlc/decord) ⭐ 2,515 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 Efficient video reader for python
 * [\[MMAction\]](https://github.com/open-mmlab/mmaction) ⭐ 1,875 | 🐛 57 | 🌐 Python | 📅 2022-04-08
@@ -89,7 +89,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Skeleton-Based Action Classification
 
-* [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17135) - S. Yan et al., AAAI2018. [\[code\]](https://github.com/yysijie/st-gcn) ⭐ 1,756 | 🐛 0 | 🌐 Python | 📅 2023-03-08
+* [Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/17135) - S. Yan et al., AAAI2018. [\[code\]](https://github.com/yysijie/st-gcn) ⭐ 1,758 | 🐛 0 | 🌐 Python | 📅 2023-03-08
 * [Actional-Structural Graph Convolutional Networks for Skeleton-Based Action Recognition](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Actional-Structural_Graph_Convolutional_Networks_for_Skeleton-Based_Action_Recognition_CVPR_2019_paper.html) - M. Li et al., CVPR2019.
 * [An Attention Enhanced Graph Convolutional LSTM Network for Skeleton-Based Action Recognition](https://arxiv.org/abs/1902.09130) - C. Si et al., CVPR2019.
 * [View Adaptive Neural Networks for High Performance Skeleton-Based Human Action Recognition](https://ieeexplore.ieee.org/abstract/document/8630687) - P. Zhang et al., TPAMI2019.
@@ -235,10 +235,10 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Pose Estimation
 
-* [OpenPose Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,431 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Caffe based realtime pose estimation library from CMU.
-* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,599 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
+* [OpenPose Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,433 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Caffe based realtime pose estimation library from CMU.
+* [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,598 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
 * [DensePose](https://arxiv.org/abs/1802.00434v1) [\[code\]](https://github.com/facebookresearch/DensePose) ⚠️ Archived - Dense pose human estimation in the wild implemented in the Detectron framework.
-* [DeepLabCut: markerless pose estimation of user-defined body parts with deep learning](https://www.nature.com/articles/s41593-018-0209-y) - A. Mathis et al, Nature Neuroscience 2018. [\[code\]](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,760 | 🐛 41 | 🌐 Python | 📅 2026-09-08
+* [DeepLabCut: markerless pose estimation of user-defined body parts with deep learning](https://www.nature.com/articles/s41593-018-0209-y) - A. Mathis et al, Nature Neuroscience 2018. [\[code\]](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,761 | 🐛 45 | 🌐 Python | 📅 2026-09-09
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) - Z. Cao et al, CVPR2017. [\[code\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,121 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 depends on the [\[caffe RT pose\]](https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose.git) ⭐ 356 | 🐛 4 | 🌐 C++ | 📅 2017-07-18 - Earlier version of OpenPose from CMU.
 * [MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network](https://arxiv.org/abs/1807.04067) - M. Kocabas et al, ECCV2018. [\[code\]](https://github.com/salihkaragoz/pose-residual-network-pytorch) ⭐ 285 | 🐛 8 | 🌐 Python | 📅 2021-08-06
 * [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184) - R. Girdhar et al., arXiv2017.
@@ -263,4 +263,4 @@ Please read the [contribution guidelines](contributing.md). Then please feel fre
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
