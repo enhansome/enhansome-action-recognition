@@ -21,7 +21,7 @@
                 "open_issues": 444,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7421,
+                "stars": 7420,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 444,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7421,
+                    "stars": 7420,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5158,
+                    "stars": 5159,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -535,7 +535,7 @@
                     "open_issues": 221,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2517,
+                    "stars": 2518,
                     "topics": [
                       "video-loader"
                     ]
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34440,
+                "stars": 34442,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8599,
+                "stars": 8600,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1974,7 +1974,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-09-11T14:19:48Z",
-                "open_issues": 49,
+                "open_issues": 51,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5766,
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:53:34.216Z",
+    "last_updated": "2026-09-13T17:21:46.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
