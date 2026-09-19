@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7420,
+                "stars": 7421,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -70,7 +70,7 @@
                 "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "video-nonlocal-net",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7420,
+                    "stars": 7421,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1658,7 +1658,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26505,
+                "stars": 26504,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26355,
+                "stars": 26354,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26355,
+                "stars": 26354,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1747,7 +1747,7 @@
                 "open_issues": 29,
                 "owner": "fizyr",
                 "repo": "keras-retinanet",
-                "stars": 4380,
+                "stars": 4381,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1768,7 +1768,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34455,
+                "stars": 34454,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8603,
+                "stars": 8602,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-18T01:31:36Z",
-                "open_issues": 44,
+                "last_commit": "2026-09-18T23:53:50Z",
+                "open_issues": 45,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5773,
+                "stars": 5774,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:37:12.959Z",
+    "last_updated": "2026-09-19T17:07:00.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
