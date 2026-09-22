@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5160,
+                    "stars": 5162,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -535,7 +535,7 @@
                     "open_issues": 221,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2520,
+                    "stars": 2522,
                     "topics": [
                       "video-loader"
                     ]
@@ -558,7 +558,7 @@
                     "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1874,
+                    "stars": 1875,
                     "topics": [
                       "action-detection",
                       "action-recognition",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26501,
+                "stars": 26503,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26353,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26353,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1721,7 +1721,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4808,
+                "stars": 4807,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -1789,7 +1789,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2834,
+                "stars": 2835,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34461,
+                "stars": 34464,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1977,7 +1977,7 @@
                 "open_issues": 46,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5775,
+                "stars": 5778,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5121,
+                "stars": 5123,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:13:34.685Z",
+    "last_updated": "2026-09-22T18:01:15.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
