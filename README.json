@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4431,
+                "stars": 4430,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26354,
+                "stars": 26353,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26354,
+                "stars": 26353,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34466,
+                "stars": 34468,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-23T15:47:33Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-24T14:35:46Z",
+                "open_issues": 48,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5778,
+                "stars": 5777,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:20:42.660Z",
+    "last_updated": "2026-09-24T18:21:36.332Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
