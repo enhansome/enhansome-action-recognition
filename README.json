@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7426,
+                "stars": 7428,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -70,7 +70,7 @@
                 "open_issues": 39,
                 "owner": "facebookresearch",
                 "repo": "video-nonlocal-net",
-                "stars": 1988,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -91,7 +91,7 @@
                 "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1837,
+                "stars": 1838,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -112,7 +112,7 @@
                 "open_issues": 39,
                 "owner": "yjxiong",
                 "repo": "temporal-segment-networks",
-                "stars": 1576,
+                "stars": 1577,
                 "topics": [
                   "action-recognition",
                   "temporal-segment-networks",
@@ -137,7 +137,7 @@
                 "open_issues": 76,
                 "owner": "facebookarchive",
                 "repo": "C3D",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -158,7 +158,7 @@
                 "open_issues": 76,
                 "owner": "facebookarchive",
                 "repo": "C3D",
-                "stars": 1181,
+                "stars": 1182,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -179,7 +179,7 @@
                 "open_issues": 29,
                 "owner": "facebookresearch",
                 "repo": "VMZ",
-                "stars": 1052,
+                "stars": 1053,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -200,7 +200,7 @@
                 "open_issues": 63,
                 "owner": "zhoubolei",
                 "repo": "TRN-pytorch",
-                "stars": 789,
+                "stars": 790,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -242,7 +242,7 @@
                 "open_issues": 38,
                 "owner": "feichtenhofer",
                 "repo": "twostreamfusion",
-                "stars": 715,
+                "stars": 716,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -284,7 +284,7 @@
                 "open_issues": 23,
                 "owner": "ZhaofanQiu",
                 "repo": "pseudo-3d-residual-networks",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -305,7 +305,7 @@
                 "open_issues": 6,
                 "owner": "colincsl",
                 "repo": "TemporalConvolutionalNetworks",
-                "stars": 299,
+                "stars": 300,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7426,
+                    "stars": 7428,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5165,
+                    "stars": 5167,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -587,7 +587,7 @@
                     "open_issues": 12,
                     "owner": "hassony2",
                     "repo": "kinetics_i3d_pytorch",
-                    "stars": 547,
+                    "stars": 548,
                     "topics": [
                       "3d-convolutional-network",
                       "i3d",
@@ -789,7 +789,7 @@
                 "open_issues": 6,
                 "owner": "rohitgirdhar",
                 "repo": "AttentionalPoolingAction",
-                "stars": 259,
+                "stars": 260,
                 "topics": [
                   "action-recognition",
                   "attention-mechanism",
@@ -817,7 +817,7 @@
                 "open_issues": 15,
                 "owner": "yaoli",
                 "repo": "arctic-capgen-vid",
-                "stars": 256,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -859,7 +859,7 @@
                 "open_issues": 3,
                 "owner": "bryanyzhu",
                 "repo": "Hidden-Two-Stream",
-                "stars": 190,
+                "stars": 191,
                 "topics": [
                   "action-recognition",
                   "caffe",
@@ -890,7 +890,7 @@
                 "open_issues": 5,
                 "owner": "hbilen",
                 "repo": "dynamic-image-nets",
-                "stars": 186,
+                "stars": 187,
                 "topics": [
                   "action-recognition",
                   "computer-vision",
@@ -937,7 +937,7 @@
                 "open_issues": 1,
                 "owner": "wanglimin",
                 "repo": "TDD",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "action-recognition",
                   "caffe"
@@ -989,7 +989,7 @@
                 "open_issues": 0,
                 "owner": "yysijie",
                 "repo": "st-gcn",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1017,7 +1017,7 @@
                 "open_issues": 18,
                 "owner": "yjxiong",
                 "repo": "action-detection",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "action-detection",
                   "action-recognition",
@@ -1044,7 +1044,7 @@
                 "open_issues": 47,
                 "owner": "VisionLearningGroup",
                 "repo": "R-C3D",
-                "stars": 254,
+                "stars": 255,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 1,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4036,
+                "stars": 4037,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1535,7 +1535,7 @@
                 "open_issues": 22,
                 "owner": "activitynet",
                 "repo": "ActivityNet",
-                "stars": 977,
+                "stars": 978,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1556,7 +1556,7 @@
                 "open_issues": 23,
                 "owner": "shahroudy",
                 "repo": "NTURGB-D",
-                "stars": 882,
+                "stars": 883,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1658,7 +1658,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26508,
+                "stars": 26510,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34477,
+                "stars": 34478,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8608,
+                "stars": 8611,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1956,7 +1956,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7260,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-30T13:01:32Z",
-                "open_issues": 54,
+                "last_commit": "2026-10-01T02:05:52Z",
+                "open_issues": 58,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5780,
+                "stars": 5781,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5125,
+                "stars": 5126,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:02:35.834Z",
+    "last_updated": "2026-10-01T19:23:06.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 1,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4036,
+      "stars": 4037,
       "topics": [
         "action-classification",
         "action-detection",
