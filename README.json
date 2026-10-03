@@ -433,7 +433,7 @@
                 {
                   "node_type": "item",
                   "title": "[PySlowFast]",
-                  "description": null,
+                  "description": "facebookresearch/SlowFast",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -454,7 +454,7 @@
                 {
                   "node_type": "item",
                   "title": "[MMAction2]",
-                  "description": null,
+                  "description": "open-mmlab/mmaction2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -467,7 +467,7 @@
                     "open_issues": 319,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5167,
+                    "stars": 5168,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -494,7 +494,7 @@
                 {
                   "node_type": "item",
                   "title": "[3D ResNet PyTorch]",
-                  "description": null,
+                  "description": "kenshohara/3D-ResNets-PyTorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -545,7 +545,7 @@
                 {
                   "node_type": "item",
                   "title": "[MMAction]",
-                  "description": null,
+                  "description": "open-mmlab/mmaction",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -574,7 +574,7 @@
                 {
                   "node_type": "item",
                   "title": "[I3D models transfered from Tensorflow to PyTorch]",
-                  "description": null,
+                  "description": "hassony2/kinetics_i3d_pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -605,7 +605,7 @@
                 {
                   "node_type": "item",
                   "title": "[PyTorch Video Research]",
-                  "description": null,
+                  "description": "gsig/PyVideoResearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -626,7 +626,7 @@
                 {
                   "node_type": "item",
                   "title": "[Extract frame and optical-flow from videos, #docker]",
-                  "description": null,
+                  "description": "epic-kitchens/epic-kitchens-100-annotations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -647,7 +647,7 @@
                 {
                   "node_type": "item",
                   "title": "[Inflated models on PyTorch]",
-                  "description": null,
+                  "description": "hassony2/inflated_convnets_pytorch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -668,7 +668,7 @@
                 {
                   "node_type": "item",
                   "title": "[M-PACT: Michigan Platform for Activity Classification in Tensorflow]",
-                  "description": null,
+                  "description": "MichiganCOG/M-PACT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -709,7 +709,7 @@
                 {
                   "node_type": "item",
                   "title": "[A Two Stream Baseline on Kinectics dataset]",
-                  "description": null,
+                  "description": "gurkirt/2D-kinectics",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -730,7 +730,7 @@
                 {
                   "node_type": "item",
                   "title": "[I3D models converted from Tensorflow to Core ML]",
-                  "description": null,
+                  "description": "lukereichold/VisualActionKit",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1460,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "Two-Stream (RGB and Flow) pretrained model weights",
-              "description": null,
+              "description": "craftGBD/caffe-GBD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1501,7 +1501,7 @@
                 "open_issues": 1,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4037,
+                "stars": 4039,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1543,7 +1543,7 @@
             {
               "node_type": "item",
               "title": "NTU RGB+D",
-              "description": null,
+              "description": "shahroudy/NTURGB-D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26351,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26351,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34483,
+                "stars": 34484,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:06:38.078Z",
+    "last_updated": "2026-10-03T04:21:37.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 1,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4037,
+      "stars": 4039,
       "topics": [
         "action-classification",
         "action-detection",
