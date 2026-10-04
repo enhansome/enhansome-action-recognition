@@ -464,10 +464,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-03-18T04:04:49Z",
-                    "open_issues": 319,
+                    "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5168,
+                    "stars": 5170,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -535,7 +535,7 @@
                     "open_issues": 221,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2523,
+                    "stars": 2524,
                     "topics": [
                       "video-loader"
                     ]
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4428,
+                "stars": 4430,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1977,7 +1977,7 @@
                 "open_issues": 58,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5779,
+                "stars": 5780,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:52:12.582Z",
+    "last_updated": "2026-10-04T18:04:20.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
