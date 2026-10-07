@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5172,
+                    "stars": 5173,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26512,
+                "stars": 26513,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34483,
+                "stars": 34485,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1956,7 +1956,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7261,
+                "stars": 7262,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1977,7 +1977,7 @@
                 "open_issues": 60,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5781,
+                "stars": 5782,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:23:45.817Z",
+    "last_updated": "2026-10-07T19:50:42.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
