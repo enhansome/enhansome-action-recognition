@@ -1501,7 +1501,7 @@
                 "open_issues": 1,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4038,
+                "stars": 4037,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1655,7 +1655,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2024-05-03T13:53:58Z",
-                "open_issues": 1978,
+                "open_issues": 1979,
                 "owner": "pjreddie",
                 "repo": "darknet",
                 "stars": 26513,
@@ -1747,7 +1747,7 @@
                 "open_issues": 29,
                 "owner": "fizyr",
                 "repo": "keras-retinanet",
-                "stars": 4381,
+                "stars": 4382,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1789,7 +1789,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835,
+                "stars": 2836,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34485,
+                "stars": 34487,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1974,10 +1974,10 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-06T14:34:38Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5782,
+                "stars": 5783,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:50:42.667Z",
+    "last_updated": "2026-10-08T19:46:13.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 1,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4038,
+      "stars": 4037,
       "topics": [
         "action-classification",
         "action-detection",
