@@ -1,6 +1,6 @@
 # Awesome Action Recognition: with stars
 
-A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,589 | 🐛 97 | 📅 2024-05-17.
+A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,585 | 🐛 97 | 📅 2024-05-17.
 
 ## Contents
 
@@ -18,17 +18,17 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Video Representation
 
-* [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) - C. Feichtenhofer et al., ICCV2019. [\[code\]](https://github.com/facebookresearch/SlowFast) ⭐ 7,428 | 🐛 445 | 🌐 Python | 📅 2026-03-16
+* [SlowFast Networks for Video Recognition](https://arxiv.org/abs/1812.03982) - C. Feichtenhofer et al., ICCV2019. [\[code\]](https://github.com/facebookresearch/SlowFast) ⭐ 7,429 | 🐛 445 | 🌐 Python | 📅 2026-03-16
 * [Can Spatiotemporal 3D CNNs Retrace the History of 2D CNNs and ImageNet?](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hara_Can_Spatiotemporal_3D_CVPR_2018_paper.pdf) - K. Hara et al., CVPR2019. [\[code\]](https://github.com/kenshohara/3D-ResNets-PyTorch) ⭐ 4,038 | 🐛 154 | 🌐 Python | 📅 2021-01-20
 * [Non-Local Neural Networks](https://arxiv.org/abs/1711.07971) - X. Wang et al., CVPR2018. [\[code\]](https://github.com/facebookresearch/video-nonlocal-net) ⚠️ Archived
-* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf) - J. Carreira et al, CVPR2017. [\[code\]](https://github.com/deepmind/kinetics-i3d) ⭐ 1,838 | 🐛 95 | 🌐 Python | 📅 2019-09-12[\[PyTorch code\]](https://github.com/hassony2/kinetics_i3d_pytorch) ⭐ 548 | 🐛 12 | 🌐 Python | 📅 2024-05-23, [\[another PyTorch code\]](https://github.com/piergiaj/pytorch-i3d) ⭐ 1,056 | 🐛 60 | 🌐 Python | 📅 2020-06-28
+* [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf) - J. Carreira et al, CVPR2017. [\[code\]](https://github.com/deepmind/kinetics-i3d) ⭐ 1,837 | 🐛 95 | 🌐 Python | 📅 2019-09-12[\[PyTorch code\]](https://github.com/hassony2/kinetics_i3d_pytorch) ⭐ 548 | 🐛 12 | 🌐 Python | 📅 2024-05-23, [\[another PyTorch code\]](https://github.com/piergiaj/pytorch-i3d) ⭐ 1,055 | 🐛 60 | 🌐 Python | 📅 2020-06-28
 * [Temporal Segment Networks: Towards Good Practices for Deep Action Recognition](https://arxiv.org/pdf/1608.00859.pdf) - L. Wang et al, arXiv 2016. [\[code\]](https://github.com/yjxiong/temporal-segment-networks) ⭐ 1,577 | 🐛 39 | 🌐 Python | 📅 2020-10-27
 * [ConvNet Architecture Search for Spatiotemporal Feature Learning](https://arxiv.org/abs/1708.05038) - D. Tran et al, arXiv2017. Note: Aka Res3D. [\[code\]](https://github.com/facebook/C3D) ⚠️ Archived: In the repository, C3D-v1.1 is the Res3D implementation.
 * [Learning Spatiotemporal Features with 3D Convolutional Networks](http://vlg.cs.dartmouth.edu/c3d/c3d_video.pdf) - D. Tran et al, ICCV2015. [\[the official Caffe code\]](https://github.com/facebook/C3D) ⚠️ Archived [\[project web\]](http://vlg.cs.dartmouth.edu/c3d/) Note: Aka C3D. [\[Python Wrapper\]](https://github.com/chuckcho/C3D/tree/python-wrapper) ⭐ 0 | 🐛 0 | 🌐 C++ | 📅 2016-10-10 Note that the official caffe does not support python wrapper. [\[TensorFlow\]](https://github.com/hx173149/C3D-tensorflow) ⭐ 581 | 🐛 81 | 🌐 Python | 📅 2019-07-11, [\[TensorFlow + Keras\]](https://github.com/axon-research/c3d-keras), [\[Another TensorFlow Implemetation\]](https://github.com/frankgu/C3D-tensorflow.git) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2018-06-30, [\[Keras C3D Project web\]](https://imatge.upc.edu/web/resources/c3d-model-keras-trained-over-sports-1m): [\[Keras code\]](https://gist.github.com/albertomontesg/d8b21a179c1e6cca0480ebdf292c34d2), [\[Pretrained weights\]](https://www.dropbox.com/s/ypiwalgtlrtnw8b/c3d-sports1M_weights.h5?dl=0).
 * [A Closer Look at Spatiotemporal Convolutions for Action Recognition](https://arxiv.org/pdf/1711.11248.pdf) - D. Tran et al., CVPR2018. [\[code\]](https://github.com/facebookresearch/R2Plus1D) ⚠️ Archived [\[PyTorch\]](https://github.com/irhumshafkat/R2Plus1D-PyTorch) ⚠️ Archived
 * [Temporal Relational Reasoning in Videos](https://arxiv.org/pdf/1711.08496.pdf) - B. Zhou et al., ECCV2018. [\[code\]](https://github.com/metalbubble/TRN-pytorch) ⭐ 790 | 🐛 63 | 🌐 Python | 📅 2021-05-06 [\[project web\]](http://relation.csail.mit.edu/)
 * [Learning Correspondence from the Cycle-consistency of Time](https://arxiv.org/pdf/1903.07593.pdf) - X. Wang et al., CVPR2019. [\[code\]](https://github.com/xiaolonw/TimeCycle) ⭐ 722 | 🐛 10 | 🌐 Python | 📅 2019-06-26 [\[project web\]](https://ajabri.github.io/timecycle/)
-* [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://arxiv.org/pdf/1604.06573.pdf) - C. Feichtenhofer et al, CVPR2016. [\[code\]](https://github.com/feichtenhofer/twostreamfusion) ⭐ 716 | 🐛 38 | 🌐 Cuda | 📅 2016-09-27
+* [Convolutional Two-Stream Network Fusion for Video Action Recognition](https://arxiv.org/pdf/1604.06573.pdf) - C. Feichtenhofer et al, CVPR2016. [\[code\]](https://github.com/feichtenhofer/twostreamfusion) ⭐ 715 | 🐛 38 | 🌐 Cuda | 📅 2016-09-27
 * [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - C.-Y. Wu. et al., CVPR2019. [\[code\]](https://github.com/facebookresearch/video-long-term-feature-banks/) ⚠️ Archived
 * [Learning Spatio-Temporal Representation with Pseudo-3D Residual Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qiu_Learning_Spatio-Temporal_Representation_ICCV_2017_paper.pdf) - Z. Qui et al, ICCV2017. [\[code\]](https://github.com/ZhaofanQiu/pseudo-3d-residual-networks) ⭐ 347 | 🐛 23 | 🌐 C++ | 📅 2018-10-10
 * [Temporal Convolutional Networks: A Unified Approach to Action Segmentation and Detection](https://arxiv.org/pdf/1611.05267.pdf) - C. Lea et al, CVPR 2017. [\[code\]](https://github.com/colincsl/TemporalConvolutionalNetworks) ⭐ 300 | 🐛 6 | 🌐 Python | 📅 2017-08-08
@@ -56,8 +56,8 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 #### Useful Code Repos on Video Representation Learning
 
-* [\[PySlowFast\]](https://github.com/facebookresearch/slowfast) ⭐ 7,428 | 🐛 445 | 🌐 Python | 📅 2026-03-16
-* [\[MMAction2\]](https://github.com/open-mmlab/mmaction2) ⭐ 5,173 | 🐛 318 | 🌐 Python | 📅 2026-03-18
+* [\[PySlowFast\]](https://github.com/facebookresearch/slowfast) ⭐ 7,429 | 🐛 445 | 🌐 Python | 📅 2026-03-16
+* [\[MMAction2\]](https://github.com/open-mmlab/mmaction2) ⭐ 5,174 | 🐛 318 | 🌐 Python | 📅 2026-03-18
 * [\[3D ResNet PyTorch\]](https://github.com/kenshohara/3D-ResNets-PyTorch) ⭐ 4,038 | 🐛 154 | 🌐 Python | 📅 2021-01-20
 * [\[Decord\]](https://github.com/dmlc/decord) ⭐ 2,524 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 Efficient video reader for python
 * [\[MMAction\]](https://github.com/open-mmlab/mmaction) ⭐ 1,875 | 🐛 57 | 🌐 Python | 📅 2022-04-08
@@ -211,9 +211,9 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Object Detection
 
-* [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf) - J. Redmon et al, CVPR2016. [\[official code\]](https://github.com/pjreddie/darknet.git) ⭐ 26,513 | 🐛 1,979 | 🌐 C | 📅 2024-05-03, [\[TensorFLow\]](https://github.com/gliese581gg/YOLO_tensorflow) ⭐ 1,708 | 🐛 38 | 🌐 Python | 📅 2019-01-05 - Fast object detector.
+* [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf) - J. Redmon et al, CVPR2016. [\[official code\]](https://github.com/pjreddie/darknet.git) ⭐ 26,511 | 🐛 1,978 | 🌐 C | 📅 2024-05-03, [\[TensorFLow\]](https://github.com/gliese581gg/YOLO_tensorflow) ⭐ 1,708 | 🐛 38 | 🌐 Python | 📅 2019-01-05 - Fast object detector.
 * [Detectron](https://github.com/facebookresearch/Detectron) ⚠️ Archived - Open Source Object Detection Framework from Facebook AI Research. Includes Mask R-CNN, FPN, and etc. Caffe2 implementation.
-* [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [\[Detectron\]](https://github.com/facebookresearch/Detectron) ⚠️ Archived, [\[TensorFlow + Keras\]](https://github.com/matterport/Mask_RCNN) ⭐ 25,575 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07, [\[MXNet\]](https://github.com/TuSimple/mx-maskrcnn) ⭐ 1,752 | 🐛 54 | 🌐 Python | 📅 2018-02-28, [\[TensorFlow\]](https://github.com/CharlesShang/FastMaskRCNN) ⭐ 3,082 | 🐛 142 | 🌐 Python | 📅 2021-01-05, [\[PyTorch\]](https://github.com/felixgwu/mask_rcnn_pytorch) - State-of-the-art object detection/instance segmentation algorithm.
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [\[Detectron\]](https://github.com/facebookresearch/Detectron) ⚠️ Archived, [\[TensorFlow + Keras\]](https://github.com/matterport/Mask_RCNN) ⭐ 25,576 | 🐛 2,022 | 🌐 Python | 📅 2024-06-07, [\[MXNet\]](https://github.com/TuSimple/mx-maskrcnn) ⭐ 1,752 | 🐛 54 | 🌐 Python | 📅 2018-02-28, [\[TensorFlow\]](https://github.com/CharlesShang/FastMaskRCNN) ⭐ 3,082 | 🐛 142 | 🌐 Python | 📅 2021-01-05, [\[PyTorch\]](https://github.com/felixgwu/mask_rcnn_pytorch) - State-of-the-art object detection/instance segmentation algorithm.
 * [SSD](https://arxiv.org/abs/1512.02325) - W. Liu et al, ECCV2016. [\[official PyCaffe code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,808 | 🐛 676 | 🌐 C++ | 📅 2023-04-21, [\[TensorFlow\]](https://github.com/balancap/SSD-Tensorflow) ⭐ 4,101 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2021-08-12, [\[Keras\]](https://github.com/rykov8/ssd_keras) ⚠️ Archived - State-of-the-art object detector with realtime processing speed.
 * [RetinaNet](https://arxiv.org/abs/1708.02002) - Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár, Facebook AI Research FAIR & ICCV 2017.[\[Keras\]](https://github.com/fizyr/keras-retinanet) ⭐ 4,382 | 🐛 29 | 🌐 Python | 📅 2023-03-16 - State-of-the-art object detector with realtime processing speed.
 * [Deformable Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf) - J. Dai et al., ICCV2017. [\[official code\]](https://github.com/msracver/Deformable-ConvNets) ⭐ 4,121 | 🐛 159 | 🌐 Python | 📅 2021-09-27
@@ -235,7 +235,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Pose Estimation
 
-* [OpenPose Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,487 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Caffe based realtime pose estimation library from CMU.
+* [OpenPose Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,491 | 🐛 359 | 🌐 C++ | 📅 2024-08-03 - Caffe based realtime pose estimation library from CMU.
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,610 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
 * [DensePose](https://arxiv.org/abs/1802.00434v1) [\[code\]](https://github.com/facebookresearch/DensePose) ⚠️ Archived - Dense pose human estimation in the wild implemented in the Detectron framework.
 * [DeepLabCut: markerless pose estimation of user-defined body parts with deep learning](https://www.nature.com/articles/s41593-018-0209-y) - A. Mathis et al, Nature Neuroscience 2018. [\[code\]](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,783 | 🐛 61 | 🌐 Python | 📅 2026-10-06
@@ -263,4 +263,4 @@ Please read the [contribution guidelines](contributing.md). Then please feel fre
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
