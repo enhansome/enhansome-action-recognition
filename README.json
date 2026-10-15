@@ -200,7 +200,7 @@
                 "open_issues": 63,
                 "owner": "zhoubolei",
                 "repo": "TRN-pytorch",
-                "stars": 790,
+                "stars": 789,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -326,7 +326,7 @@
                 "open_issues": 4,
                 "owner": "coderSkyChen",
                 "repo": "Action_Recognition_Zoo",
-                "stars": 246,
+                "stars": 245,
                 "topics": [
                   "action-recognition",
                   "pytorch"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5178,
+                    "stars": 5177,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1498,10 +1498,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2023-05-13T17:00:12Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4039,
+                "stars": 4038,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26350,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26352,
+                "stars": 26350,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1721,7 +1721,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4809,
+                "stars": 4808,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -1974,7 +1974,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-13T17:12:14Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5790,
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:27:05.975Z",
+    "last_updated": "2026-10-15T18:09:21.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2072,10 +2072,10 @@
       "language": null,
       "license": null,
       "last_commit": "2023-05-13T17:00:12Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4039,
+      "stars": 4038,
       "topics": [
         "action-classification",
         "action-detection",
