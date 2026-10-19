@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7434,
+                "stars": 7436,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -42,7 +42,7 @@
                 "open_issues": 154,
                 "owner": "kenshohara",
                 "repo": "3D-ResNets-PyTorch",
-                "stars": 4038,
+                "stars": 4037,
                 "topics": [
                   "action-recognition",
                   "computer-vision",
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7434,
+                    "stars": 7436,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5178,
+                    "stars": 5180,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -507,7 +507,7 @@
                     "open_issues": 154,
                     "owner": "kenshohara",
                     "repo": "3D-ResNets-PyTorch",
-                    "stars": 4038,
+                    "stars": 4037,
                     "topics": [
                       "action-recognition",
                       "computer-vision",
@@ -558,7 +558,7 @@
                     "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1876,
+                    "stars": 1877,
                     "topics": [
                       "action-detection",
                       "action-recognition",
@@ -1017,7 +1017,7 @@
                 "open_issues": 18,
                 "owner": "yjxiong",
                 "repo": "action-detection",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "action-detection",
                   "action-recognition",
@@ -1305,7 +1305,7 @@
                 "open_issues": 0,
                 "owner": "vkalogeiton",
                 "repo": "caffe",
-                "stars": 106,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1658,7 +1658,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26508,
+                "stars": 26507,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1869,10 +1869,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-03T01:59:11Z",
-                "open_issues": 359,
+                "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34504,
+                "stars": 34507,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8609,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1974,7 +1974,7 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-10-16T17:35:12Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5794,
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5125,
+                "stars": 5126,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:12:12.624Z",
+    "last_updated": "2026-10-19T19:45:20.057Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
