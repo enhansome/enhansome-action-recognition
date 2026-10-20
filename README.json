@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7436,
+                "stars": 7437,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -263,7 +263,7 @@
                 "open_issues": 15,
                 "owner": "facebookresearch",
                 "repo": "video-long-term-feature-banks",
-                "stars": 383,
+                "stars": 384,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7436,
+                    "stars": 7437,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5180,
+                    "stars": 5181,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1017,7 +1017,7 @@
                 "open_issues": 18,
                 "owner": "yjxiong",
                 "repo": "action-detection",
-                "stars": 645,
+                "stars": 646,
                 "topics": [
                   "action-detection",
                   "action-recognition",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1978,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26507,
+                "stars": 26509,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26347,
+                "stars": 26348,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26347,
+                "stars": 26348,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34507,
+                "stars": 34513,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1977,7 +1977,7 @@
                 "open_issues": 69,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5794,
+                "stars": 5795,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5126,
+                "stars": 5124,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:45:20.057Z",
+    "last_updated": "2026-10-20T18:25:19.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
