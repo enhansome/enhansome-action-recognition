@@ -1501,7 +1501,7 @@
                 "open_issues": 2,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4039,
+                "stars": 4038,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4427,
+                "stars": 4426,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34516,
+                "stars": 34518,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-22T15:20:25Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-23T15:34:43Z",
+                "open_issues": 51,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5798,
+                "stars": 5800,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:26:55.638Z",
+    "last_updated": "2026-10-23T18:12:41.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 2,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4039,
+      "stars": 4038,
       "topics": [
         "action-classification",
         "action-detection",
