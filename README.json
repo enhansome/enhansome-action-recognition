@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7441,
+                "stars": 7442,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7441,
+                    "stars": 7442,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5188,
+                    "stars": 5190,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1501,7 +1501,7 @@
                 "open_issues": 2,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4039,
+                "stars": 4040,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1747,7 +1747,7 @@
                 "open_issues": 28,
                 "owner": "fizyr",
                 "repo": "keras-retinanet",
-                "stars": 4380,
+                "stars": 4381,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8611,
+                "stars": 8613,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:24:02.083Z",
+    "last_updated": "2026-11-01T18:49:31.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 2,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4039,
+      "stars": 4040,
       "topics": [
         "action-classification",
         "action-detection",
