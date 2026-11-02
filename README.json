@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7442,
+                "stars": 7443,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7442,
+                    "stars": 7443,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5190,
+                    "stars": 5189,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1501,7 +1501,7 @@
                 "open_issues": 2,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4040,
+                "stars": 4042,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4427,
+                "stars": 4426,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26511,
+                "stars": 26512,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26345,
+                "stars": 26343,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26345,
+                "stars": 26343,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34550,
+                "stars": 34552,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8613,
+                "stars": 8614,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-31T07:03:16Z",
+                "last_commit": "2026-11-02T17:32:30Z",
                 "open_issues": 57,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5810,
+                "stars": 5811,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T18:49:31.041Z",
+    "last_updated": "2026-11-02T22:40:23.348Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 2,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4040,
+      "stars": 4042,
       "topics": [
         "action-classification",
         "action-detection",
