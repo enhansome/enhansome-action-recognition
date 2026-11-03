@@ -1,6 +1,6 @@
 # Awesome Action Recognition: with stars
 
-A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,628 | 🐛 99 | 📅 2024-05-17.
+A curated list of action recognition and related area (e.g. object recognition, pose estimation) resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,629 | 🐛 99 | 📅 2024-05-17.
 
 ## Contents
 
@@ -57,10 +57,10 @@ A curated list of action recognition and related area (e.g. object recognition, 
 #### Useful Code Repos on Video Representation Learning
 
 * [\[PySlowFast\]](https://github.com/facebookresearch/slowfast) ⭐ 7,443 | 🐛 445 | 🌐 Python | 📅 2026-03-16
-* [\[MMAction2\]](https://github.com/open-mmlab/mmaction2) ⭐ 5,189 | 🐛 318 | 🌐 Python | 📅 2026-03-18
+* [\[MMAction2\]](https://github.com/open-mmlab/mmaction2) ⭐ 5,190 | 🐛 318 | 🌐 Python | 📅 2026-03-18
 * [\[3D ResNet PyTorch\]](https://github.com/kenshohara/3D-ResNets-PyTorch) ⭐ 4,038 | 🐛 154 | 🌐 Python | 📅 2021-01-20
 * [\[Decord\]](https://github.com/dmlc/decord) ⭐ 2,528 | 🐛 221 | 🌐 C++ | 📅 2024-07-17 Efficient video reader for python
-* [\[MMAction\]](https://github.com/open-mmlab/mmaction) ⭐ 1,877 | 🐛 57 | 🌐 Python | 📅 2022-04-08
+* [\[MMAction\]](https://github.com/open-mmlab/mmaction) ⭐ 1,876 | 🐛 57 | 🌐 Python | 📅 2022-04-08
 * [\[I3D models transfered from Tensorflow to PyTorch\]](https://github.com/hassony2/kinetics_i3d_pytorch) ⭐ 548 | 🐛 12 | 🌐 Python | 📅 2024-05-23
 * [\[PyTorch Video Research\]](https://github.com/gsig/PyVideoResearch) ⭐ 536 | 🐛 11 | 🌐 Python | 📅 2019-06-17
 * [\[Extract frame and optical-flow from videos, #docker\]](https://github.com/epic-kitchens/epic-kitchens-100-annotations/blob/master/README.md#erratum) ⭐ 173 | 🐛 2 | 🌐 Python | 📅 2022-08-01
@@ -99,7 +99,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Temporal Action Detection
 
-* [Temporal Action Detection with Structured Segment Networks](http://cn.arxiv.org/pdf/1704.06228v2) - Y. Zhao et al., ICCV2017. [\[code\]](https://github.com/yjxiong/action-detection) ⭐ 646 | 🐛 18 | 🌐 Python | 📅 2019-06-21 [\[project web\]](http://yjxiong.me/others/ssn/)
+* [Temporal Action Detection with Structured Segment Networks](http://cn.arxiv.org/pdf/1704.06228v2) - Y. Zhao et al., ICCV2017. [\[code\]](https://github.com/yjxiong/action-detection) ⭐ 645 | 🐛 18 | 🌐 Python | 📅 2019-06-21 [\[project web\]](http://yjxiong.me/others/ssn/)
 * [R-C3D: Region Convolutional 3D Network for Temporal Activity Detection](https://arxiv.org/abs/1703.07814) - H. Xu et al, arXiv2017. [\[code\]](https://github.com/VisionLearningGroup/R-C3D) ⭐ 255 | 🐛 47 | 🌐 Jupyter Notebook | 📅 2019-12-22 [\[project web\]](http://ai.bu.edu/r-c3d/) [\[PyTorch\]](https://github.com/sunnyxiaohu/R-C3D.pytorch) ⭐ 247 | 🐛 26 | 🌐 Python | 📅 2019-12-16
 * [Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs](http://dvmmweb.cs.columbia.edu/files/dvmm_scnn_paper.pdf) - Z. Shou et al, CVPR2016. [\[code\]](https://github.com/zhengshou/scnn) ⭐ 233 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2019-03-02 Note: Aka S-CNN.
 * [End-to-End, Single-Stream Temporal Action Detection in Untrimmed Videos](http://vision.stanford.edu/pdf/buch2017bmvc.pdf) - Shayamal Buch et al., BMVC 2017 [\[code\]](https://github.com/shyamal-b/ss-tad) ⭐ 108 | 🐛 6 | 🌐 Python | 📅 2017-10-12
@@ -124,7 +124,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 ### Spatio-Temporal Action Detection
 
-* [Online Real time Multiple Spatiotemporal Action Localisation and Prediction](https://arxiv.org/pdf/1611.08563v3.pdf) - [G. Singh](http://gurkirt.github.io/) et al, ICCV2017. [\[code\]](https://github.com/gurkirt/realtime-action-detection) ⭐ 321 | 🐛 0 | 🌐 MATLAB | 📅 2021-02-23
+* [Online Real time Multiple Spatiotemporal Action Localisation and Prediction](https://arxiv.org/pdf/1611.08563v3.pdf) - [G. Singh](http://gurkirt.github.io/) et al, ICCV2017. [\[code\]](https://github.com/gurkirt/realtime-action-detection) ⭐ 320 | 🐛 0 | 🌐 MATLAB | 📅 2021-02-23
 * [Action Tubelet Detector for Spatio-Temporal Action Localization](https://arxiv.org/abs/1705.01861) - V. Kalogeiton et al, ICCV2017. [\[code\]](https://github.com/vkalogeiton/caffe/tree/act-detector) ⭐ 105 | 🐛 0 | 🌐 C++ | 📅 2018-02-27 [\[project web\]](http://thoth.inrialpes.fr/src/ACTdetector/)
 * [Finding Action Tubes](https://people.eecs.berkeley.edu/~gkioxari/ActionTubes/action_tubes.pdf) - G. Gkioxari and J. Malik CVPR2015. [\[code\]](https://github.com/gkioxari/ActionTubes) ⭐ 64 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2016-06-22 [\[project web\]](https://people.eecs.berkeley.edu/~gkioxari/ActionTubes/)
 * [Multi-region two-stream R-CNN for action detection](https://www.robots.ox.ac.uk/~vgg/rg/papers/peng16eccv.pdf) - [X. Peng](http://xjpeng.weebly.com/) and C. Schmid. ECCV2016. [\[code\]](https://github.com/pengxj/action-faster-rcnn) ⭐ 58 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2017-11-23
@@ -166,7 +166,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 ### Action Recognition Datasets
 
 * [UCF-101](http://crcv.ucf.edu/data/UCF101.php), [annotation provided by THUMOS-14](http://crcv.ucf.edu/ICCV13-Action-Workshop/index.files/UCF101_24Action_Detection_Annotations.zip), and [corrupted annotation list](https://github.com/jinwchoi/Jinwoo-Computer-Vision-and-Machine-Learing-papers-to-read/blob/master/UCF101_Spatial_Annotation_Corrupted_file_list) ⭐ 4,042 | 🐛 2 | 📅 2023-05-13,  [UCF-101 corrected annotations](https://github.com/gurkirt/corrected-UCF101-Annots) ⭐ 84 | 🐛 0 | 🌐 MATLAB | 📅 2021-02-20 and [different version annotaions](https://github.com/jvgemert/apt) ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2016-01-14. And there are also some pre-computed spatiotemporal action detection [results](https://drive.google.com/drive/folders/0B-LzM05qEdk0aG5pTE94VFI1SUk)
-* [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [paper](https://arxiv.org/pdf/1705.07750.pdf), [download toolkit](https://github.com/activitynet/ActivityNet/tree/master/Crawler/Kinetics) ⭐ 978 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2024-03-21
+* [Kinetics](https://deepmind.com/research/open-source/open-source-datasets/kinetics/), [paper](https://arxiv.org/pdf/1705.07750.pdf), [download toolkit](https://github.com/activitynet/ActivityNet/tree/master/Crawler/Kinetics) ⭐ 979 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2024-03-21
 * [NTU RGB+D](https://github.com/shahroudy/NTURGB-D) ⭐ 885 | 🐛 23 | 🌐 MATLAB | 📅 2022-02-18
 * [Video Dataset Overview from Antoine Miech](https://www.di.ens.fr/~miech/datasetviz/)
 * [HACS](http://hacs.csail.mit.edu/)
@@ -213,7 +213,7 @@ A curated list of action recognition and related area (e.g. object recognition, 
 
 * [YOLO](https://pjreddie.com/media/files/papers/yolo.pdf) - J. Redmon et al, CVPR2016. [\[official code\]](https://github.com/pjreddie/darknet.git) ⭐ 26,512 | 🐛 1,977 | 🌐 C | 📅 2024-05-03, [\[TensorFLow\]](https://github.com/gliese581gg/YOLO_tensorflow) ⭐ 1,708 | 🐛 38 | 🌐 Python | 📅 2019-01-05 - Fast object detector.
 * [Detectron](https://github.com/facebookresearch/Detectron) ⚠️ Archived - Open Source Object Detection Framework from Facebook AI Research. Includes Mask R-CNN, FPN, and etc. Caffe2 implementation.
-* [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [\[Detectron\]](https://github.com/facebookresearch/Detectron) ⚠️ Archived, [\[TensorFlow + Keras\]](https://github.com/matterport/Mask_RCNN) ⭐ 25,576 | 🐛 2,021 | 🌐 Python | 📅 2024-06-07, [\[MXNet\]](https://github.com/TuSimple/mx-maskrcnn) ⭐ 1,752 | 🐛 54 | 🌐 Python | 📅 2018-02-28, [\[TensorFlow\]](https://github.com/CharlesShang/FastMaskRCNN) ⭐ 3,081 | 🐛 142 | 🌐 Python | 📅 2021-01-05, [\[PyTorch\]](https://github.com/felixgwu/mask_rcnn_pytorch) - State-of-the-art object detection/instance segmentation algorithm.
+* [Mask R-CNN](https://arxiv.org/abs/1703.06870) - K. He et al, [\[Detectron\]](https://github.com/facebookresearch/Detectron) ⚠️ Archived, [\[TensorFlow + Keras\]](https://github.com/matterport/Mask_RCNN) ⭐ 25,575 | 🐛 2,020 | 🌐 Python | 📅 2024-06-07, [\[MXNet\]](https://github.com/TuSimple/mx-maskrcnn) ⭐ 1,752 | 🐛 54 | 🌐 Python | 📅 2018-02-28, [\[TensorFlow\]](https://github.com/CharlesShang/FastMaskRCNN) ⭐ 3,081 | 🐛 142 | 🌐 Python | 📅 2021-01-05, [\[PyTorch\]](https://github.com/felixgwu/mask_rcnn_pytorch) - State-of-the-art object detection/instance segmentation algorithm.
 * [SSD](https://arxiv.org/abs/1512.02325) - W. Liu et al, ECCV2016. [\[official PyCaffe code\]](https://github.com/weiliu89/caffe/tree/ssd) ⭐ 4,809 | 🐛 676 | 🌐 C++ | 📅 2023-04-21, [\[TensorFlow\]](https://github.com/balancap/SSD-Tensorflow) ⭐ 4,103 | 🐛 295 | 🌐 Jupyter Notebook | 📅 2021-08-12, [\[Keras\]](https://github.com/rykov8/ssd_keras) ⚠️ Archived - State-of-the-art object detector with realtime processing speed.
 * [RetinaNet](https://arxiv.org/abs/1708.02002) - Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He and Piotr Dollár, Facebook AI Research FAIR & ICCV 2017.[\[Keras\]](https://github.com/fizyr/keras-retinanet) ⭐ 4,381 | 🐛 28 | 🌐 Python | 📅 2023-03-16 - State-of-the-art object detector with realtime processing speed.
 * [Deformable Convolutional Networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf) - J. Dai et al., ICCV2017. [\[official code\]](https://github.com/msracver/Deformable-ConvNets) ⭐ 4,124 | 🐛 159 | 🌐 Python | 📅 2021-09-27
@@ -238,8 +238,8 @@ A curated list of action recognition and related area (e.g. object recognition, 
 * [OpenPose Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,552 | 🐛 360 | 🌐 C++ | 📅 2024-08-03 - Caffe based realtime pose estimation library from CMU.
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,614 | 🐛 304 | 🌐 Python | 📅 2024-05-13 - PyTorch based realtime and accurate pose estimation and tracking tool from SJTU.
 * [DensePose](https://arxiv.org/abs/1802.00434v1) [\[code\]](https://github.com/facebookresearch/DensePose) ⚠️ Archived - Dense pose human estimation in the wild implemented in the Detectron framework.
-* [DeepLabCut: markerless pose estimation of user-defined body parts with deep learning](https://www.nature.com/articles/s41593-018-0209-y) - A. Mathis et al, Nature Neuroscience 2018. [\[code\]](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,811 | 🐛 57 | 🌐 Python | 📅 2026-11-02
-* [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) - Z. Cao et al, CVPR2017. [\[code\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,125 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 depends on the [\[caffe RT pose\]](https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose.git) ⭐ 357 | 🐛 4 | 🌐 C++ | 📅 2017-07-18 - Earlier version of OpenPose from CMU.
+* [DeepLabCut: markerless pose estimation of user-defined body parts with deep learning](https://www.nature.com/articles/s41593-018-0209-y) - A. Mathis et al, Nature Neuroscience 2018. [\[code\]](https://github.com/DeepLabCut/DeepLabCut) ⭐ 5,811 | 🐛 52 | 🌐 Python | 📅 2026-11-03
+* [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://arxiv.org/abs/1611.08050) - Z. Cao et al, CVPR2017. [\[code\]](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation) ⭐ 5,126 | 🐛 107 | 🌐 Jupyter Notebook | 📅 2020-03-21 depends on the [\[caffe RT pose\]](https://github.com/CMU-Perceptual-Computing-Lab/caffe_rtpose.git) ⭐ 357 | 🐛 4 | 🌐 C++ | 📅 2017-07-18 - Earlier version of OpenPose from CMU.
 * [MultiPoseNet: Fast Multi-Person Pose Estimation using Pose Residual Network](https://arxiv.org/abs/1807.04067) - M. Kocabas et al, ECCV2018. [\[code\]](https://github.com/salihkaragoz/pose-residual-network-pytorch) ⭐ 285 | 🐛 8 | 🌐 Python | 📅 2021-08-06
 * [Detect-and-Track: Efficient Pose Estimation in Videos](https://arxiv.org/abs/1712.09184) - R. Girdhar et al., arXiv2017.
 
@@ -263,4 +263,4 @@ Please read the [contribution guidelines](contributing.md). Then please feel fre
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._

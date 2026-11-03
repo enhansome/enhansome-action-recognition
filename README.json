@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5189,
+                    "stars": 5190,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -558,7 +558,7 @@
                     "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1877,
+                    "stars": 1876,
                     "topics": [
                       "action-detection",
                       "action-recognition",
@@ -1017,7 +1017,7 @@
                 "open_issues": 18,
                 "owner": "yjxiong",
                 "repo": "action-detection",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "action-detection",
                   "action-recognition",
@@ -1275,7 +1275,7 @@
                 "open_issues": 0,
                 "owner": "gurkirt",
                 "repo": "realtime-action-detection",
-                "stars": 321,
+                "stars": 320,
                 "topics": [
                   "action-detection",
                   "action-recognition",
@@ -1535,7 +1535,7 @@
                 "open_issues": 22,
                 "owner": "activitynet",
                 "repo": "ActivityNet",
-                "stars": 978,
+                "stars": 979,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26343,
+                "stars": 26341,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26343,
+                "stars": 26341,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1973,8 +1973,8 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-02T17:32:30Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-03T16:18:44Z",
+                "open_issues": 52,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5811,
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5125,
+                "stars": 5126,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:40:23.348Z",
+    "last_updated": "2026-11-03T20:27:58.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
