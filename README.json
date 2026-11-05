@@ -91,7 +91,7 @@
                 "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1839,
+                "stars": 1840,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5192,
+                    "stars": 5193,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1501,7 +1501,7 @@
                 "open_issues": 2,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4042,
+                "stars": 4043,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1789,7 +1789,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835,
+                "stars": 2836,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34550,
+                "stars": 34558,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8616,
+                "stars": 8617,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-04T08:55:32Z",
-                "open_issues": 52,
+                "last_commit": "2026-11-05T08:56:26Z",
+                "open_issues": 49,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5811,
+                "stars": 5813,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5126,
+                "stars": 5127,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:43:07.357Z",
+    "last_updated": "2026-11-05T20:58:46.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 2,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4042,
+      "stars": 4043,
       "topics": [
         "action-classification",
         "action-detection",
