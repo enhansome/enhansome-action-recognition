@@ -91,7 +91,7 @@
                 "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1840,
+                "stars": 1841,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1501,7 +1501,7 @@
                 "open_issues": 6,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4044,
+                "stars": 4043,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1556,7 +1556,7 @@
                 "open_issues": 23,
                 "owner": "shahroudy",
                 "repo": "NTURGB-D",
-                "stars": 886,
+                "stars": 887,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34566,
+                "stars": 34573,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8619,
+                "stars": 8620,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:44:09.520Z",
+    "last_updated": "2026-11-09T23:20:34.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 6,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4044,
+      "stars": 4043,
       "topics": [
         "action-classification",
         "action-detection",
