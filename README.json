@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7441,
+                "stars": 7443,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7441,
+                    "stars": 7443,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -535,7 +535,7 @@
                     "open_issues": 220,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2529,
+                    "stars": 2530,
                     "topics": [
                       "video-loader"
                     ]
@@ -1501,7 +1501,7 @@
                 "open_issues": 6,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4043,
+                "stars": 4044,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26509,
+                "stars": 26513,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26338,
+                "stars": 26339,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26338,
+                "stars": 26339,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1789,7 +1789,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2835,
+                "stars": 2836,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34573,
+                "stars": 34575,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8620,
+                "stars": 8621,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1956,7 +1956,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7259,
+                "stars": 7260,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1977,7 +1977,7 @@
                 "open_issues": 50,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5817,
+                "stars": 5818,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:20:34.695Z",
+    "last_updated": "2026-11-10T20:45:05.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 6,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4043,
+      "stars": 4044,
       "topics": [
         "action-classification",
         "action-detection",
