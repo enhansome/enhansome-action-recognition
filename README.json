@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7444,
+                "stars": 7445,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -91,7 +91,7 @@
                 "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1842,
+                "stars": 1843,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7444,
+                    "stars": 7445,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5195,
+                    "stars": 5197,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -535,7 +535,7 @@
                     "open_issues": 220,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2531,
+                    "stars": 2532,
                     "topics": [
                       "video-loader"
                     ]
@@ -639,7 +639,7 @@
                     "open_issues": 2,
                     "owner": "epic-kitchens",
                     "repo": "epic-kitchens-100-annotations",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4425,
+                "stars": 4424,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26511,
+                "stars": 26510,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26338,
+                "stars": 26336,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26338,
+                "stars": 26336,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1721,7 +1721,7 @@
                 "open_issues": 676,
                 "owner": "weiliu89",
                 "repo": "caffe",
-                "stars": 4807,
+                "stars": 4808,
                 "topics": [
                   "deep-learning",
                   "object-detection",
@@ -1914,7 +1914,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8623,
+                "stars": 8626,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-11T16:09:27Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-13T16:48:27Z",
+                "open_issues": 58,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5820,
+                "stars": 5822,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:23:49.171Z",
+    "last_updated": "2026-11-13T20:49:08.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
