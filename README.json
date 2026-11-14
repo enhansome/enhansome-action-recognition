@@ -91,7 +91,7 @@
                 "open_issues": 95,
                 "owner": "google-deepmind",
                 "repo": "kinetics-i3d",
-                "stars": 1843,
+                "stars": 1842,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5197,
+                    "stars": 5199,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26510,
+                "stars": 26512,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26336,
+                "stars": 26335,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26336,
+                "stars": 26335,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34578,
+                "stars": 34579,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1956,7 +1956,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7260,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1973,8 +1973,8 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-13T16:48:27Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-14T11:36:15Z",
+                "open_issues": 56,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
                 "stars": 5822,
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:49:08.021Z",
+    "last_updated": "2026-11-14T18:59:50.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
