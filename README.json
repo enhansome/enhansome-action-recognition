@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5199,
+                    "stars": 5201,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -558,7 +558,7 @@
                     "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1876,
+                    "stars": 1877,
                     "topics": [
                       "action-detection",
                       "action-recognition",
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26335,
+                "stars": 26334,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26335,
+                "stars": 26334,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1977,7 +1977,7 @@
                 "open_issues": 56,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5822,
+                "stars": 5824,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:59:50.471Z",
+    "last_updated": "2026-11-15T19:39:58.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
