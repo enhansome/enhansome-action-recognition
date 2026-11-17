@@ -1501,7 +1501,7 @@
                 "open_issues": 6,
                 "owner": "jinwchoi",
                 "repo": "awesome-action-recognition",
-                "stars": 4043,
+                "stars": 4045,
                 "topics": [
                   "action-classification",
                   "action-detection",
@@ -1584,7 +1584,7 @@
                 "open_issues": 246,
                 "owner": "microsoft",
                 "repo": "VoTT",
-                "stars": 4425,
+                "stars": 4424,
                 "topics": [
                   "annotation-tool",
                   "cntk",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26512,
+                "stars": 26514,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26333,
+                "stars": 26334,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26333,
+                "stars": 26334,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1789,7 +1789,7 @@
                 "open_issues": 142,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
-                "stars": 2836,
+                "stars": 2837,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34586,
+                "stars": 34590,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-16T09:31:49Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-17T19:11:09Z",
+                "open_issues": 56,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5825,
+                "stars": 5826,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2009,7 +2009,7 @@
                 "open_issues": 107,
                 "owner": "ZheC",
                 "repo": "Realtime_Multi-Person_Pose_Estimation",
-                "stars": 5126,
+                "stars": 5125,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T23:16:52.199Z",
+    "last_updated": "2026-11-17T22:08:01.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
@@ -2075,7 +2075,7 @@
       "open_issues": 6,
       "owner": "jinwchoi",
       "repo": "awesome-action-recognition",
-      "stars": 4043,
+      "stars": 4045,
       "topics": [
         "action-classification",
         "action-detection",
