@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5201,
+                    "stars": 5203,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -558,7 +558,7 @@
                     "open_issues": 57,
                     "owner": "open-mmlab",
                     "repo": "mmaction",
-                    "stars": 1876,
+                    "stars": 1877,
                     "topics": [
                       "action-detection",
                       "action-recognition",
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26518,
+                "stars": 26519,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34604,
+                "stars": 34607,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1956,7 +1956,7 @@
                 "open_issues": 151,
                 "owner": "facebookresearch",
                 "repo": "DensePose",
-                "stars": 7258,
+                "stars": 7259,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1974,10 +1974,10 @@
                 "language": "Python",
                 "license": "LGPL-3.0",
                 "last_commit": "2026-11-20T15:30:03Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5830,
+                "stars": 5829,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:44:30.418Z",
+    "last_updated": "2026-11-21T20:25:55.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
