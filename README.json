@@ -21,7 +21,7 @@
                 "open_issues": 445,
                 "owner": "facebookresearch",
                 "repo": "SlowFast",
-                "stars": 7451,
+                "stars": 7452,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -446,7 +446,7 @@
                     "open_issues": 445,
                     "owner": "facebookresearch",
                     "repo": "SlowFast",
-                    "stars": 7451,
+                    "stars": 7452,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5206,
+                    "stars": 5207,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -1556,7 +1556,7 @@
                 "open_issues": 23,
                 "owner": "shahroudy",
                 "repo": "NTURGB-D",
-                "stars": 886,
+                "stars": 887,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26522,
+                "stars": 26523,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26332,
+                "stars": 26331,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26332,
+                "stars": 26331,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1786,7 +1786,7 @@
                 "language": "Matlab",
                 "license": "NOASSERTION",
                 "last_commit": "2018-07-26T04:26:32Z",
-                "open_issues": 142,
+                "open_issues": 143,
                 "owner": "ShaoqingRen",
                 "repo": "faster_rcnn",
                 "stars": 2836,
@@ -1872,7 +1872,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34615,
+                "stars": 34619,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1973,11 +1973,11 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-24T16:31:33Z",
-                "open_issues": 58,
+                "last_commit": "2026-11-26T15:31:50Z",
+                "open_issues": 59,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
-                "stars": 5835,
+                "stars": 5840,
                 "topics": [
                   "animal-pose-estimation",
                   "behavior-analysis",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T23:00:16.591Z",
+    "last_updated": "2026-11-26T22:54:00.056Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
