@@ -467,7 +467,7 @@
                     "open_issues": 318,
                     "owner": "open-mmlab",
                     "repo": "mmaction2",
-                    "stars": 5207,
+                    "stars": 5209,
                     "topics": [
                       "action-recognition",
                       "ava",
@@ -535,7 +535,7 @@
                     "open_issues": 220,
                     "owner": "dmlc",
                     "repo": "decord",
-                    "stars": 2533,
+                    "stars": 2532,
                     "topics": [
                       "video-loader"
                     ]
@@ -639,7 +639,7 @@
                     "open_issues": 2,
                     "owner": "epic-kitchens",
                     "repo": "epic-kitchens-100-annotations",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1556,7 +1556,7 @@
                 "open_issues": 23,
                 "owner": "shahroudy",
                 "repo": "NTURGB-D",
-                "stars": 887,
+                "stars": 888,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1658,7 +1658,7 @@
                 "open_issues": 1977,
                 "owner": "pjreddie",
                 "repo": "darknet",
-                "stars": 26523,
+                "stars": 26524,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26331,
+                "stars": 26330,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1700,7 +1700,7 @@
                 "open_issues": 331,
                 "owner": "facebookresearch",
                 "repo": "Detectron",
-                "stars": 26331,
+                "stars": 26330,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1768,7 +1768,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121,
+                "stars": 4120,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:30:12.713Z"
@@ -1973,7 +1973,7 @@
                 "id": 126897385,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-26T15:31:50Z",
+                "last_commit": "2026-11-27T15:38:58Z",
                 "open_issues": 59,
                 "owner": "DeepLabCut",
                 "repo": "DeepLabCut",
@@ -2063,7 +2063,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:54:00.056Z",
+    "last_updated": "2026-11-27T22:36:14.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of action recognition and related area resources",
